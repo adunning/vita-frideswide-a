@@ -22,7 +22,7 @@
 <settlement>London</settlement>
 <institution>British Library</institution>
 <collection>Cotton</collection>
-<idno>Nero E 1/2</idno>
+<idno>Nero E. i/2</idno>
 </msIdentifier>
 </msDesc>
 </witness>
@@ -299,7 +299,7 @@
 <lb/>Cunque solutus esset⸵ tenuit manum eius.
 <lb/>et dixit. <said>In nomine <name>iesu <name>cristi</name> <name>nazareni</name></name>. 
 <lb/>surge incolumis.</said> Et surrexit sanus⸵
-<lb/>cepit<supplied reason="omitted" source="#Blair">que</supplied> glorificare deum. qui eum liberauit
+<lb/>cepit<supplied reason="omitted" source="#Blair">que</supplied><!-- from L --> glorificare deum. qui eum liberauit
 <lb/>per merita sanctę <name>fritheswithę</name>. Erat
 <lb/>autem nomen eius <name>Leowinus</name>.
 <lb/><milestone unit="section" n="18"/>Hec et alia multa miracula<surplus>.</surplus> operatus est
@@ -319,7 +319,7 @@
 <lb/>urbem⸵ occurrit ei quidam iuuenis plenus
 <lb/>lepra. dixitque ei. <said>Adiuro te o <name rend="smallcaps">Frithesuui<lb break="no"/>tha</name> uirgo. ut des mihi osculum in nomine
 <lb/><name>iesu <name>cristi</name></name>.</said> Illa ut semper erat repleta sancto spiritu.
-<lb/>faciens signum crucis. de<add place="inRas">dit</add> <supplied reason="omitted" source="#Blair">ei</supplied> osculum in 
+<lb/>faciens signum crucis. de<add place="inRas">dit</add> <supplied reason="omitted" source="#Blair">ei</supplied><!-- from L --> osculum in 
 <lb/>nomine domini. et statim mun<add place="inRas">datus</add> est a lepra.
 <lb/>Videntes autem populi urbis illius omnisque clerus
 <lb/>quę fiebant per sanctam <name>fritheswitham</name> uir<lb break="no"/>tutes et miracula⸵ gaudeba<supplied reason="omitted" source="#Blair">n</supplied>t<!-- from L --> in aduentu
