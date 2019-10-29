@@ -15,9 +15,7 @@
 </availability>
 </publicationStmt>
 <sourceDesc>
-<listWit>
-<witness xml:id="N">
-<msDesc>
+<msDesc xml:id="N">
 <msIdentifier>
 <settlement>London</settlement>
 <institution>British Library</institution>
@@ -25,8 +23,36 @@
 <idno>Nero E. i/2</idno>
 </msIdentifier>
 </msDesc>
-</witness>
 <!-- http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f156r -->
+<listWit>
+<witness xml:id="B">
+<msDesc>
+<msIdentifier>
+<settlement>Oxford</settlement>
+<institution>Balliol College</institution>
+<idno>228</idno>
+</msIdentifier>
+</msDesc>
+</witness>
+<witness xml:id="L">
+<msDesc>
+<msIdentifier>
+<settlement>London</settlement>
+<institution>British Library</institution>
+<collection>Lansdowne</collection>
+<idno>436</idno>
+</msIdentifier>
+</msDesc>
+</witness>
+<witness xml:id="W">
+<msDesc>
+<msIdentifier>
+<settlement>Worcester</settlement>
+<institution>Cathedral Library</institution>
+<idno>Q.86</idno>
+</msIdentifier>
+</msDesc>
+</witness>
 </listWit>
 <listBibl>
 <biblStruct type="journalArticle" xml:id="Blair" corresp="http://zotero.org/users/254032/items/WWFC7KVC">
@@ -59,7 +85,7 @@
 <head>Incipit uita sanctę <name>fritheswithę</name> uirginis.</head>
 <div type="textpart" subtype="capitulum" n="1">
 <p>
-<lb/><milestone unit="section" n="2"/>Igitur postquam populus anglorum beati
+<lb/><milestone unit="section" n="2"/>Igitur postquam populus <name>anglorum</name> beati
 <lb/><name>augustini</name> predicatione edoctus atque bap<lb break="no"/>tizatus est⸵ constituti sunt presbiteri atque
 <lb/>diaconi. ęcclesięque constructę atque dedicatę
 <lb/>sunt⸵ per uniuersam regionem illam. Auge<lb break="no"/>batur igitur credentium multitudo. et per uni<lb break="no"/>uersam terram <name>anglorum</name> ęcclesia noua prole
@@ -78,7 +104,7 @@
 <lb/>Baptizatam itaque. uocauerunt eam <name rend="smallcaps">Fri<lb break="no"/>theswitham</name>. <milestone unit="section" n="3"/>Hec igitur regis filia. dili<lb break="no"/>genter enutrita est. Transactis itaque
 <lb/>quinque annis⸵ tradiderunt eam cuidam
 <lb/>matronę <name>Ælfgiue</name> nomine. ad erudiendum
-<lb/>litteras. Virgo igitur quam deus iam preuiderat<!-- prouiderat Blair, no note -->
+<lb/>litteras. Virgo igitur quam deus iam <app><lem wit="#N">preuiderat</lem><rdg wit="#Blair">prouiderat</rdg></app>
 <lb/>uas futurum spiritus sancti. ita animum stabi<lb break="no"/>liuit ad discendas litteras. ut intra sex
 <lb/>menses totum sciret psalterium. Proficie<lb break="no"/>bat igitur beata <name>Fritheswitha</name> uirgo et cre<lb break="no"/>scebat. omnique animo nitebatur omnibus se
 <lb/>amabilem facere. semperque prout ualebat. li<lb break="no"/>minibus sanctę ęcclesię adherebat. Sacrarum
@@ -126,7 +152,7 @@
 <lb/>uero tempus⸵ decidit in lectum rex <name>Didanus</name>⸵
 <lb/>graui egritudine correptus. Distribu<lb break="no"/>ensque thesaurum suum pauperibus. commu<lb break="no"/>nione corporis <name>cristi</name> confirmatus. deo spiritum
 <lb/>reddidit. Beata igitur <name>Fritheswitha</name> spon<lb break="no"/>sa <name>cristi</name> orbata utroque parente⸵ magis
-<lb/>ac magis <supplied reason="omitted" source="#Blair">se</supplied><!-- from W --> commendabat spiritui sancto <choice><sic>quod</sic><corr source="#Blair">quem</corr></choice><!-- from W -->
+<lb/>ac magis <supplied reason="omitted" source="#W #Blair">se</supplied> commendabat spiritui sancto <choice><sic>quod</sic><corr source="#W #Blair">quem</corr></choice>
 <lb/>timebat. Statuit etiam in corde suo
 <pb n="156v"/>
 <lb/>beata uirgo. ut centies per diem flecteret
@@ -137,7 +163,7 @@
 <p>
 <lb/><milestone unit="section" n="7"/>Quadam igitur nocte dum hec sola perageret
 <lb/>in oratorio quod sibi construxerat˷
-<lb/>dormientibus consodalibus suis. appa<lb break="no"/>ruit <supplied reason="omitted" source="#Blair">ei</supplied><!-- from B/L --> diabolus ornatus auro et argen<lb break="no"/>to. omnique lapide pretioso. constipa<lb break="no"/>tusque caterua demonum. dixit ei.
+<lb/>dormientibus consodalibus suis. appa<lb break="no"/>ruit <supplied reason="omitted" source="#L #B #Blair">ei</supplied> diabolus ornatus auro et argen<lb break="no"/>to. omnique lapide pretioso. constipa<lb break="no"/>tusque caterua demonum. dixit ei.
 <lb/><said>O mihi amabilis uirgo⸵ iam tempus
 <lb/>est ut recipias mercedem laborum
 <lb/>tuorum. Veni ergo adorare me⸵ ego enim
@@ -180,7 +206,7 @@
 <lb/>Hęc cum dixisset. uirgo sancta⸵ excecati sunt
 <cb n="b"/>
 <lb/>oculi eorum. et uidere non poterant lumen
-<lb/>celi. Videntes autem populi ciuitatis <name>oxine<lb break="no"/>fordie</name>. expauefacti corruerunt ad pe<lb break="no"/>des sanctę uirginis. postulantes ut pro eis ora<lb break="no"/>ret. <milestone unit="section" n="10"/>Sanctissima igitur femina<!-- uolens bonum pro malo reddere add. L/Blair but likely the Romsey reviser's addition --> flexis genibus
+<lb/>celi. Videntes autem populi ciuitatis <name>oxine<lb break="no"/>fordie</name>. expauefacti corruerunt ad pe<lb break="no"/>des sanctę uirginis. postulantes ut pro eis ora<lb break="no"/>ret. <milestone unit="section" n="10"/>Sanctissima igitur femina <app><lem wit="#N"/><rdg wit="#L" source="#Blair">uolens bonum pro malo reddere</rdg></app> flexis genibus
 <lb/>cepit orare dicens. <said>Deus inuisibilis et in<lb break="no"/>commutabilis˷ qui fecisti cęlum et
 <lb/>terram. mare et omnia quę in eis sunt⸵
 <lb/>quique formasti <name>adam</name> de limo terre. et
@@ -191,7 +217,7 @@
 <lb/>iste. quia tu es miserator et misericors.
 <lb/>patiens et multę misericordię et uerax.
 <lb/>qui uiuis et regnas per infinita seculorum
-<lb/>secula.</said> Cunque omnes respondissent<!-- repondissent Blair --> <said>amen</said>⸵
+<lb/>secula.</said> Cunque omnes <app><lem wit="#N">respondissent</lem><rdg source="#Blair">repondissent</rdg></app> <said>amen</said>⸵
 <lb/>restituti sunt oculi eorum. currentesque prouo<lb break="no"/>luti pedibus beatę uirginis laudabant
 <lb/>dominum. magnificantes eius immensam
 <lb/>clementiam. <milestone unit="section" n="11"/>Venientesque ad regem <name>Algarum</name>.
@@ -205,9 +231,9 @@
 <lb/><name>iesus <name>cristus</name></name>. et <quote>dextera sua sulleuabit te</quote>.
 <lb/>Pergens igitur ad amnem. habe tecum quascunque
 <lb/>uolueris socias sanctimoniales. inueniesque
-<lb/>nauem pręparatam a deo nautamque. intran<lb break="no"/>tesque nauim deducet uos<!-- dominus add. Blair/L --> omnipotens in uiam
+<lb/>nauem pręparatam a deo nautamque. intran<lb break="no"/>tesque nauim deducet uos <app><lem wit="#N"/><rdg wit="#L" source="#Blair">dominus</rdg></app> omnipotens in uiam
 <lb/>rectam. ad glorificandum nomen suum.</said> Hoc 
-<lb/>audito⸵<!-- dicto Blair/L --> recessit ab ea. <milestone unit="section" n="12"/>Surgens igitur
+<lb/><app><lem wit="#N">audito</lem><rdg wit="#L" source="#Blair">dicto</rdg></app>⸵ recessit ab ea. <milestone unit="section" n="12"/>Surgens igitur
 <lb/>beata uirgo⸵ uocauit duas sanctimoniales
 <lb/>secum uirgines deo dicatas. peruenientesque
 <lb/>iuxta preceptum angelicum ad ripam <name>tamisię</name>.
@@ -215,7 +241,7 @@
 <lb/>uirgines. <said>Ingredimini in nauim. uirgines sacratę.</said> Ingressę itaque in nauim.
 <lb/>in unius horę spatio uenerunt ad uillam
 <lb/>que dicitur <name>bentonia</name>. ducente domino. Egredi<lb break="no"/>entesque de naui⸵ subito euanuit iuue<lb break="no"/>nis ab oculis earum. Beata igitur <name>frithesuui<lb break="no"/>tha</name>. cum suis uirginibus timens insidi<lb break="no"/>as nefandi regis⸵ ingressa est in quodam
-<lb/>nemore <app><lem>quod dicitur <name>benesia</name></lem><rdg wit="#N"><del rend="erased">quod dicitur <name>benesia</name></del></rdg></app> non longe
+<lb/>nemore <app><lem source="#Blair">quod dicitur <name>benesia</name></lem><rdg wit="#N"><del rend="erased">quod dicitur <name>benesia</name></del></rdg></app> non longe
 <lb/>a supradicta uilla. inueneruntque ibi
 <lb/>semitam. quę ducebat ad mansiunculam
 <pb n="157r"/>
@@ -299,7 +325,7 @@
 <lb/>Cunque solutus esset⸵ tenuit manum eius.
 <lb/>et dixit. <said>In nomine <name>iesu <name>cristi</name> <name>nazareni</name></name>. 
 <lb/>surge incolumis.</said> Et surrexit sanus⸵
-<lb/>cepit<supplied reason="omitted" source="#Blair">que</supplied><!-- from L --> glorificare deum. qui eum liberauit
+<lb/>cepit<supplied reason="omitted" source="#L #Blair">que</supplied> glorificare deum. qui eum liberauit
 <lb/>per merita sanctę <name>fritheswithę</name>. Erat
 <lb/>autem nomen eius <name>Leowinus</name>.
 <lb/><milestone unit="section" n="18"/>Hec et alia multa miracula<surplus>.</surplus> operatus est
@@ -319,19 +345,19 @@
 <lb/>urbem⸵ occurrit ei quidam iuuenis plenus
 <lb/>lepra. dixitque ei. <said>Adiuro te o <name rend="smallcaps">Frithesuui<lb break="no"/>tha</name> uirgo. ut des mihi osculum in nomine
 <lb/><name>iesu <name>cristi</name></name>.</said> Illa ut semper erat repleta sancto spiritu.
-<lb/>faciens signum crucis. de<add place="inRas">dit</add> <supplied reason="omitted" source="#Blair">ei</supplied><!-- from L --> osculum in 
+<lb/>faciens signum crucis. de<add place="inRas">dit</add> <supplied reason="omitted" source="#L #Blair">ei</supplied> osculum in 
 <lb/>nomine domini. et statim mun<add place="inRas">datus</add> est a lepra.
 <lb/>Videntes autem populi urbis illius omnisque clerus
-<lb/>quę fiebant per sanctam <name>fritheswitham</name> uir<lb break="no"/>tutes et miracula⸵ gaudeba<supplied reason="omitted" source="#Blair">n</supplied>t<!-- from L --> in aduentu
+<lb/>quę fiebant per sanctam <name>fritheswitham</name> uir<lb break="no"/>tutes et miracula⸵ gaudeba<supplied reason="omitted" source="#L #Blair">n</supplied>t in aduentu
 <lb/>eius. <milestone unit="section" n="19"/>Beata itaque <name>cristi</name> uirgo. omnipotenti
 <lb/>deo seruire non cessabat. affligebatque corpus
-<lb/>ut uiuificaret spiritum.<!-- Vnde cum hec per multa tempora continuaret⸵ et dies retributionis a domino recipiendi mercedem pro labore appropinquaret. add. Blair/L: not in B, so I'm guessing it's the Romsey reviser --> Quarto <hi rend="smallcaps">idus</hi> octobris
-<lb/>apparuit ei angelus domini. dixitque.<!-- ei add. Blair/L --> <said>Quarto deci<lb break="no"/>mo kalendas <hi rend="smallcaps">nouembris</hi> erit dies dominicus. recipi<lb break="no"/>esque a domino coronam immortalitatis quam semper
+<lb/>ut uiuificaret spiritum. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">Vnde cum hec per multa tempora continuaret; et dies retribucionis a domino recipiendi mercedem pro labore appropinquaret⸵</rdg></app> Quarto <hi rend="smallcaps">idus</hi> octobris
+<lb/>apparuit ei angelus domini. dixitque. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">ei</rdg></app> <said>Quarto deci<lb break="no"/>mo kalendas <hi rend="smallcaps">nouembris</hi> erit dies dominicus. recipi<lb break="no"/>esque a domino coronam immortalitatis quam semper
 <lb/>desiderasti. Preparata enim tibi est aula cęle<lb break="no"/>stis. luxque immarcescibilis⸵ quia despexisti
 <lb/>terrenum palatium patris.</said> Hoc dicto⸵ angelus
 <lb/>ab ea recessit. Beatissima igitur uirgo <name rend="smallcaps">frithe<lb break="no"/>switha</name> correpta fortissima febre⸵ ingra<lb break="no"/>uescente egritudine corporis. cepit omnibus
 <lb/>menbris dissolui. Vnaquaque igitur die uenie<lb break="no"/>bant ad eam omnes ciues illius urbis. Bea<lb break="no"/>ta uero uirgo. monitis salutaribus non cessa<lb break="no"/>bat eos reficere. <milestone unit="section" n="20"/>Sabbato igitur quo in crastinum
-<lb/>recessura erat<!-- a add. Blair/L --> corpore. rogauit ut ei sepul<lb break="no"/>tura aperiretur in ęcclesia beatę dei genitricis
+<lb/>recessura erat <app><lem wit="#N"/><rdg wit="#L" source="#Blair">a</rdg></app> corpore. rogauit ut ei sepul<lb break="no"/>tura aperiretur in ęcclesia beatę dei genitricis
 <lb/><name>marię</name> dicens. <said>Crastina die erit dies dominicus.
 <lb/>et nolo ut aliquis laboret propter me. Hac enim
 <lb/>in nocte post tertium cantum galli. munita
@@ -351,7 +377,7 @@
 <cb n="b"/>
 <lb/>ueniam dominę meę.</said> Post tertium itaque galli cantum
 <lb/>sicut prędixerat ualedicens omnibus migrauit ad dominum
-<lb/><name>iesum <name>cristum</name></name>. In illa hora tanta lux effulsit per uni<lb break="no"/>uersam ciuitatem <name>Oxinefordiam</name> tantaque sua<lb break="no"/>uitas odoris trium horarum spatio <supplied reason="omitted" source="#Blair">fragrauit</supplied>.<!-- from L --> ut omnes
+<lb/><name>iesum <name>cristum</name></name>. In illa hora tanta lux effulsit per uni<lb break="no"/>uersam ciuitatem <name>Oxinefordiam</name> tantaque sua<lb break="no"/>uitas odoris trium horarum spatio <supplied reason="omitted" source="#L #Blair">fragrauit</supplied>. ut omnes
 <lb/>mirarentur. et glorificarent deum. <milestone unit="section" n="22"/>Quidam etiam uir
 <lb/>paralitico morbo percussus. uir diues ualde.
 <lb/>iussit famulis suis. ut eum deportarent ad se<lb break="no"/>pulchrum sanctę uirginis. Cunque detulissent eum
@@ -364,7 +390,7 @@
 </div>
 <div type="textpart" subtype="capitulum" n="10">
 <p>
-<lb/><milestone unit="section" n="23"/>Alius quidam<!-- quidem Blair, no note --> nomine <name rend="smallcaps">Athelwoldus</name> uir
+<lb/><milestone unit="section" n="23"/>Alius <app><lem wit="#N">quidam</lem><rdg source="#Blair">quidem</rdg></app> nomine <name rend="smallcaps">Athelwoldus</name> uir
 <lb/>nobilis. qui erat contra<add place="inRas">ctus</add> ab umbilico de<lb break="no"/>orsum. cum sepelirent corpus beatę <name>Frithesuui<lb break="no"/>thę</name>. uenit ad fores ęcclesię. trahens corpus suum duobus
 <lb/>scabellis. Volens igitur introire in ęcclesiam⸵ pre mul<lb break="no"/>titudine populorum non poterat. Cepit autem 
 <lb/>ad fores ęcclesię clamare. <said>O sponsa <name>cristi</name> electa
