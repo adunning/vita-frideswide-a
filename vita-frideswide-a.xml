@@ -164,10 +164,10 @@
 <p>
 <lb/><milestone unit="section" n="7"/>Quadam igitur nocte dum hec sola perageret
 <lb/>in oratorio quod sibi construxerat˷
-<lb/>dormientibus consodalibus suis. appa<lb break="no"/>ruit <supplied reason="omitted" source="#B #L #Blair">ei</supplied> diabolus ornatus auro et argen<lb break="no"/>to. omnique lapide pretioso. constipa<lb break="no"/>tusque caterua demonum. dixit ei.
+<lb/>dormientibus consodalibus suis. appa<lb break="no"/>ruit <supplied reason="omitted" source="#B #L #Blair">ei</supplied> diabolus ornatus auro et argen<lb break="no"/>to. omnique lapide pretioso. constipa<lb break="no"/>tusque caterua demonum. <!-- chk: cap? -->dixit ei.
 <lb/><said>O mihi amabilis uirgo⸵ iam tempus
 <lb/>est ut recipias mercedem laborum
-<lb/>tuorum. Veni ergo adorare me⸵ ego enim
+<lb/>tuorum. Veni ergo <quote type="Bible">adorare me</quote>⸵<!-- Matt. 4.9 --> ego enim
 <lb/>sum <name>cristus</name>. daboque tibi coronam im<lb break="no"/>mortalitatis. quam promeruisti.</said> Cui
 <lb/>beata <name rend="smallcaps">fritheswitha</name> dixit. <said>O miser
 <lb/>omniumque creaturarum fetidissime.
@@ -189,11 +189,11 @@
 <lb/>nomine. Hic misit legatos ad beatam
 <lb/><name rend="smallcaps">Fritheswitham</name>⸵ ita dicentes. <said>Misit
 <lb/>nos ad te rex <name rend="smallcaps">Algarus</name> <name rend="smallcaps">Fritheswitha</name> uirgo. uolens te habere in matrimo<lb break="no"/>nium. Quod si nolueris⸵ faciet te trahi
-<lb/>ad <name>lupanar</name>.</said> Quibus uirgo deo sacrata res<lb break="no"/>pondit. <said>Desponsata sum <name>cristo</name> regi regum
+<lb/>ad lupanar.</said> Quibus uirgo deo sacrata res<lb break="no"/>pondit. <said>Desponsata sum <name>cristo</name> regi regum
 <lb/>omnium. et ideo nefarium uidetur esse. ut
 <lb/>relinquens regem. obediam mandatis
 <lb/>serui. Quod autem dicitis me trahere 
-<lb/>ad <name>lupanar</name>. sciatis non posse contaminari
+<lb/>ad lupanar. sciatis non posse contaminari
 <lb/>animum. nisi ex consensu mentis. Insuper
 <lb/>omnia autem. <quote type="Bible">dominus mihi adiutor. non ti<lb break="no"/>mebo quid faciat mihi homo.</quote><!-- Ps. 118.6 (Vulg. 117.6); Heb. 13.6 --></said> <milestone unit="section" n="9"/>Ministri ergo
 <lb/>regis indignati dixerunt. <said>Nisi adqui<lb break="no"/>eueris sponte preceptis regis. rapiemus
@@ -204,7 +204,7 @@
 <lb/>quoniam homines sunt.</quote><!-- Ps. 9.19–20 (Vulg. 9.20–21) --> <quote type="Bible">Apprehende arma.
 <lb/>et scutum. et exurge in adiutorium mihi.
 <lb/><choice><sic>d</sic><corr source="#Blair">D</corr></choice>ic animę meę. salus tua ego sum.</quote><!-- Ps. 35.2–3 (Vulg. 34.2–3) --></said>
-<lb/>Hęc cum dixisset. uirgo sancta⸵ excecati sunt
+<lb/>Hęc cum dixisset<surplus>.</surplus> uirgo sancta⸵ excecati sunt
 <cb n="b"/>
 <lb/>oculi eorum. et uidere non poterant <quote type="Bible">lumen
 <lb/>cęli</quote>.<!-- Tob. 5.12, 11.8, 12.3 --> Videntes autem populi ciuitatis <name>oxine<lb break="no"/>fordie</name>. expauefacti corruerunt ad pe<lb break="no"/>des sanctę uirginis. postulantes ut pro eis ora<lb break="no"/>ret. <milestone unit="section" n="10"/>Sanctissima igitur femina <app><lem wit="#N"/><rdg wit="#L" source="#Blair">uolens bonum pro malo reddere</rdg></app> flexis genibus
