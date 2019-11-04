@@ -353,8 +353,8 @@
 <lb/>quę fiebant per sanctam <name>fritheswitham</name> uir<lb break="no"/>tutes et miracula⸵ gaudeba<supplied reason="omitted" source="#L #Blair">n</supplied>t in aduentu
 <lb/>eius. <milestone unit="section" n="19"/>Beata itaque <name>cristi</name> uirgo. omnipotenti
 <lb/>deo seruire non cessabat. affligebatque corpus
-<lb/>ut uiuificaret spiritum. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">Vnde cum hec per multa tempora continuaret; et dies retribucionis a domino recipiendi mercedem pro labore appropinquaret⸵</rdg></app> Quarto <hi rend="smallcaps">idus</hi> octobris
-<lb/>apparuit ei angelus domini. dixitque. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">ei</rdg></app> <said>Quarto deci<lb break="no"/>mo kalendas <hi rend="smallcaps">nouembris</hi> erit dies dominicus. recipi<lb break="no"/>esque a domino coronam immortalitatis quam semper
+<lb/>ut uiuificaret spiritum. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">Vnde cum hec per multa tempora continuaret; et dies retribucionis a domino recipiendi mercedem pro labore appropinquaret⸵</rdg></app> <date when="0727-10-12">Quarto <hi rend="smallcaps">idus</hi> octobris</date>
+<lb/>apparuit ei angelus domini. dixitque. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">ei</rdg></app> <said><date when="0727-10-19">Quarto deci<lb break="no"/>mo kalendas <hi rend="smallcaps">nouembris</hi></date> erit dies dominicus. recipi<lb break="no"/>esque a domino coronam immortalitatis quam semper
 <lb/>desiderasti. Preparata enim tibi est aula cęle<lb break="no"/>stis. luxque immarcescibilis⸵ quia despexisti
 <lb/>terrenum palatium patris.</said> Hoc dicto⸵ angelus
 <lb/>ab ea recessit. Beatissima igitur uirgo <name rend="smallcaps">frithe<lb break="no"/>switha</name> correpta fortissima febre⸵ ingra<lb break="no"/>uescente egritudine corporis. cepit omnibus
@@ -399,13 +399,13 @@
 <lb/>uirgo <name>Fritheswitha</name>. libera me ab infirmita<lb break="no"/>tibus meis. scio enim quia si uis subuenire mihi
 <lb/>potes.</said> Hec dicens⸵ ita sanus factus est⸵ quasi
 <lb/>nunquam aliquid habuisset infirmitatis.
-<lb/>Surgens itaque et exiliens. et quasi ceruus
-<lb/>saliens⸵<!-- cf. Is. 35.6 --> uiriliter introiuit in ęcclesiam. por<lb break="no"/>tans eleuatis manibus scannulos. cum quibus
+<lb/>Surgens itaque et exiliens. et quasi <quote type="Bible">ceruus
+<lb/>saliens</quote>⸵<!-- Is. 35.6 --> uiriliter introiuit in ęcclesiam. por<lb break="no"/>tans eleuatis manibus scannulos. cum quibus
 <lb/>corpus suum trahere solebat. laudans deum
 <lb/>omnium redemptorem. <milestone unit="section" n="24"/>Migrauit igitur
-<lb/>beata <name>frithesuuitha</name> uirgo ad dominum<surplus>.</surplus> quar<lb break="no"/>to decimo <hi rend="smallcaps">kalendas nouembris</hi>. anno ab
+<lb/>beata <name>frithesuuitha</name> uirgo ad dominum<surplus>.</surplus> <date when="0727-10-19">quar<lb break="no"/>to decimo <hi rend="smallcaps">kalendas nouembris</hi>. anno ab
 <lb/>incarnatione domini septingentesimo uicesimo
-<lb/>septimo. Sepultaque est in ęcclesia sanctę <name>marię</name>
+<lb/>septimo.</date> Sepultaque est in ęcclesia sanctę <name>marię</name>
 <lb/>in australi parte. ubi fiunt multa miracu<lb break="no"/>la propter merita eius a domino nostro <name>iesu <name>cristo</name></name>. qui
 <lb/>cum patre et spiritu sancto uiuit et regnat per omnia
 <lb/>secula seculorum amen.
