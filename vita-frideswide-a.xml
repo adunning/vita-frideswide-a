@@ -226,8 +226,8 @@
 <lb/>itaque rex furore et ira</quote>⸵<!-- conflation of Dan. 2.12, 3.13, 3.19 --> dixit. <said>Neque in<lb break="no"/>cantationes eius neque eius falsa dogmata.
 <lb/>neque ars eius magica. eam liberabit
 <lb/>de manibus meis. quin eam habeam.</said> In ipsa
-<lb/>nocte orante beata <name rend="smallcaps">Fritheswitha</name>⸵ ap<lb break="no"/>paruit ei angelus domini dicens. <said>O <quote type="Bible">uas electum</quote><!-- Acts 9.15 -->
-<lb/>sancti spiritus. noli timere minas funesti regis.
+<lb/>nocte orante beata <name rend="smallcaps">Fritheswitha</name>⸵ <quote type="Bible">ap<lb break="no"/>paruit ei angelus domini dicens</quote>.<!-- Matt. 1.20 --> <said>O <quote type="Bible">uas electum</quote><!-- Acts 9.15 -->
+<lb/>sancti spiritus. <quote type="Bible">noli timere</quote><!-- Matt. 1.20 --> minas funesti regis.
 <lb/>quia <quote type="Bible">sub umbra alarum suarum proteget te</quote><!-- Ps. 17.8 (Vulg. 16.8) -->
 <lb/><name>iesus <name>cristus</name></name>. et dextera sua <quote type="Bible">sulleuabit te</quote>.<!-- Is. 22.17 -->
 <lb/>Pergens igitur ad amnem. habe tecum quascunque
@@ -296,10 +296,10 @@
 <lb/>cepit eius implorare auxilium. Illa ut
 <lb/>erat misericordi<choice><sic>ę</sic><corr source="#Blair">a</corr></choice> uisceribus repleta. mota pieta<lb break="no"/>te. flexis genibus cepit domini clementiam rogare.
 <lb/>ita dicens. <said>Adonay domine deus. magne et mi<lb break="no"/>rabilis. qui <name>moysi</name> <quote type="Bible">in igne flammę rubi appa<cb n="b" break="no"/><lb break="no"/>ruisti</quote>.<!-- Acts 7.30 --> et ei in <name>syna</name> legem dedisti. et fi<lb break="no"/>lios <name>israel</name> <quote type="Bible">de terra <name>egypti</name> eduxisti</quote>.<!-- Acts 7.40 --> et per
-<lb/>medium maris rubri sicco uestigio tran<lb break="no"/>sire fecisti. quique <name>Ionam</name> prophetam de uen<lb break="no"/>tre ceti eduxisti illesum. atque incolu<lb break="no"/>mem. et filium tuum dominum nostrum <name>iesum
+<lb/>medium maris rubri sicco uestigio tran<lb break="no"/>sire fecisti.<!-- bib ref? psalm? --> quique <name>Ionam</name> prophetam de uen<lb break="no"/>tre ceti eduxisti illesum. atque incolu<lb break="no"/>mem. et filium tuum dominum nostrum <name>iesum
 <lb/><name>cristum</name></name> pro redemptione mundi incarna<lb break="no"/>ri uoluisti. queso ut per inuocationem
 <lb/>tuam huic uiro pristinam sanitatem
-<lb/>restituas. quia tu es deus benedictus. sal<lb break="no"/>uator omnium in te sperantium. permanens
+<lb/>restituas. quia tu es deus benedictus. sal<lb break="no"/>uator omnium in te sperantium.<!-- ref? --> permanens
 <lb/>in secula seculorum.</said> Cunque astantes respon<lb break="no"/>dissent <said>amen</said>⸵ faciens uirgo signum
 <lb/>crucis. tenensque manum adolescentis<!-- maybe add a point here -->
 <lb/>fugato dolore liberauit eum. Reuer<lb break="no"/>susque ad propria⸵ glorificabat deum. Ad domini
@@ -359,12 +359,12 @@
 <lb/>terrenum palatium patris.</said> Hoc dicto⸵ angelus
 <lb/>ab ea recessit. Beatissima igitur uirgo <name rend="smallcaps">frithe<lb break="no"/>switha</name> correpta fortissima febre⸵ ingra<lb break="no"/>uescente egritudine corporis. cepit omnibus
 <lb/>menbris dissolui. Vnaquaque igitur die uenie<lb break="no"/>bant ad eam omnes ciues illius urbis. Bea<lb break="no"/>ta uero uirgo. monitis salutaribus non cessa<lb break="no"/>bat eos reficere. <milestone unit="section" n="20"/>Sabbato igitur quo in crastinum
-<lb/>recessura erat <app><lem wit="#N"/><rdg wit="#L" source="#Blair">a</rdg></app> corpore. rogauit ut ei sepul<lb break="no"/>tura aperiretur in ęcclesia beatę dei genitricis
+<lb/>recessura erat <supplied reason="omitted" source="#L #Blair">a</supplied> corpore. rogauit ut ei sepul<lb break="no"/>tura aperiretur in ęcclesia beatę dei genitricis
 <lb/><name>marię</name> dicens. <said>Crastina die erit dies dominicus.
 <lb/>et nolo ut aliquis laboret propter me. Hac enim
 <lb/>in nocte post tertium cantum galli. munita
 <lb/>corpore et sanguine <name>cristi</name>. uadam ad dominum
-<lb/>meum. Bonum enim certamen certaui. cur<lb break="no"/>sumque iustitie consummaui. mundum et
+<lb/>meum. <quote type="Bible">Bonum enim certamen certaui. cur<lb break="no"/>sumque iustitie consummaui.</quote><!-- 2 Tim. 4.7 --> mundum et
 <lb/>omnem pompam eius contempsi. ideoque <quote type="Bible">reposi<lb break="no"/>ta est mihi corona iustitię</quote>.<!-- 2 Tim. 4.8 --></said> Hec dicens⸵ ingraue<lb break="no"/>scente molestia egritudinis. iussit sibi af<lb break="no"/>ferri eucharistiam <name>cristi</name>. Quam gaudenter
 <lb/>suscipiens⸵ omnipotentem deum benedicere
 <lb/>cepit. <milestone unit="section" n="21"/>Cunque infirmitatis mole nimium
@@ -377,7 +377,7 @@
 <lb/>atque <name rend="smallcaps">Ceciliam</name>?</said> Cunque iterum loqueretur
 <lb/>ad eas⸵ dixit audientibus cunctis. <said>Modo
 <cb n="b"/>
-<lb/>ueniam dominę meę.</said> Post tertium itaque galli cantum
+<lb/>ueniam <app><lem>domine mee</lem><rdg wit="N">dominę meę</rdg></app>.</said> Post tertium itaque galli cantum
 <lb/>sicut prędixerat ualedicens omnibus migrauit ad dominum
 <lb/><name>iesum <name>cristum</name></name>. In illa hora tanta lux effulsit per uni<lb break="no"/>uersam ciuitatem <name>Oxinefordiam</name> tantaque sua<lb break="no"/>uitas odoris trium horarum spatio <supplied reason="omitted" source="#L #Blair">fragrauit</supplied>. ut omnes
 <lb/>mirarentur. et glorificarent deum. <milestone unit="section" n="22"/>Quidam etiam uir
