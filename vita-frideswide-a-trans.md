@@ -17,7 +17,7 @@ They named the baptized girl Frideswide. \[3\] As the daughter of a king, she wa
 
 \[4\] Her aforesaid mother then died, held by sickness of body and seized by a heavy fever. But King Didan built a church and made it to be dedicated in the city of Oxford in honour of the Holy Trinity, the chaste Virgin Mary, and all the saints. Then the venerable Frideswide asked her father -- King Didan that is to say -- to build her a church. The king therefore gave her a church.
 
-The devout virgin thus devoted herself to serving God after her mother's death, always applying herself to vigils and prayers day and night, so that she often forgot bodily food, and she desired the food of souls with her whole endeavour. The virgin Frideswide, viewing the pomp and glory of this transitory world, considering it all *as if it were dung*,^[Job 20.7] gave whatever she could obtain to the poor. She always used sackcloth; she had a small portion of barley bread with a few green vegetables and water for her food. All the English people meanwhile wondered at such strength at a young age, and the king rejoiced, thinking and knowing that his only daughter was the chosen vessel of the Holy Spirit.
+The devout virgin thus devoted herself to serving God after her mother's death, always applying herself to vigils and prayers day and night, so that she often forgot bodily food, and she desired the food of souls with her whole endeavour. The virgin Frideswide, viewing the pride and glory of this transitory world, considering it all *as if it were dung*,^[Job 20.7] gave whatever she could obtain to the poor. She always used sackcloth; she had a small portion of barley bread with a few green vegetables and water for her food. All the English people meanwhile wondered at such strength at a young age, and the king rejoiced, thinking and knowing that his only daughter was the chosen vessel of the Holy Spirit.
 
 \[5\] The blessed virgin therefore asked her father, saying, 'O sweetest father, grant that I may deserve to attain the habit of a nun, and to praise and bless God's name always in his temple.'
 
@@ -25,7 +25,7 @@ King Didan, hearing his daughter's plan, *was overjoyed*.^[Luke 23.8; 2 John 4; 
 
 # King Didan dies
 
-\[6\] Blessed Frideswide, adorned with good customs, devoted herself to tame the body and give life to the spirit, according to the apostle's voice, saying, *Put to death the parts of your body which are on the earth.*^[Col. 3.5]
+\[6\] Blessed Frideswide, adorned with good customs, devoted herself to tame the body and give life to the spirit, according to the Apostle's voice, saying, *Put to death the parts of your body which are on the earth.*^[Col. 3.5]
 
 But not long after, King Didan *sunk to his bed*,^[1 Macc. 1.6, 6.8] seized by a heavy illness. Dividing his treasure among the poor, protected by the communion of the body of Christ, he gave back his spirit to God.
 
@@ -77,11 +77,11 @@ In the morning, the girl told her father what she had seen. The father, holding 
 
 # Alward of Seacourt's hand is healed
 
-\[16\] There was also a young man named Alward in a village called Seacourt who was felling trees with an axe on a Sunday, thinking litle of the day of the Lord's Resurrection. While he was doing this, his hand stuck to his handle, so that he could not stretch out his fingers at all. Shouting with a loud voice, he said that his hand was burning itself. Led all the way to the blessed virgin, he rushed to her feet and began to beg for her help.
+\[16\] There was also a young man named Alward in a village called Seacourt who was felling trees with an axe on a Sunday, thinking little of the day of the Lord's Resurrection. While he was doing this, his hand stuck to his handle, so that he could not stretch out his fingers at all. Shouting with a loud voice, he said that his hand was burning itself. Led all the way to the blessed virgin, he rushed to her feet and began to beg for her help.
 
 As she was filled with pity in her innermost parts and moved by compassion, she began to ask the Lord's mercy on bended knees, saying, 'Lord God almighty, great and marvellous, who *appeared* to Moses *in a flame of fire in a bush*,^[Acts 7.30] and gave the law to him on Sinai, and *led* the sons of Israel *out from the land of Egypt*,^[Acts 7.40] and made them to cross through the midst of the Red Sea on a dry path, and who brought the prophet Jonah from the belly of a whale unharmed and safe, and wished your son, our Lord Jesus Christ, to become flesh for the world's redemption: I ask through calling on you to restore this man's original health, for you are the blessed God, the saviour of all who hope in you, continuing into the ages of ages.'
 
-And when those standing round answered 'Amen', the virgin made the sign of the cross, and holdng the young man's hand, she freed him when his pain fled. Returning home, he glorified God. Therefore, the name of blessed Frideswide was published through that whole area.
+And when those standing round answered 'Amen', the virgin made the sign of the cross, and holding the young man's hand, she freed him when his pain fled. Returning home, he glorified God. Therefore, the name of blessed Frideswide was published through that whole area.
 
 # A fisherman freed from a demon
 
@@ -117,13 +117,13 @@ But she answered, 'Do you not see Catherine and Cecilia, the blessed virgins of 
 
 And when she spoke to them again, she said to all those listening, 'Now I will come, O my Lord.'
 
-And so, after the third cockcrow, just as she had foretold, she said farewell to them all and passed to the Lord Jesus Christ. In that hour, such a light shrone through the whole city of Oxford, and such sweetness of a smell was fragrant for a space of three hours, that everyone marvelled and glorified God.
+And so, after the third cockcrow, just as she had foretold, she said farewell to them all and passed to the Lord Jesus Christ. In that hour, such a light shone through the whole city of Oxford, and such sweetness of a smell was fragrant for a space of three hours, that everyone marvelled and glorified God.
 
 \[22\] A certain paralysed man also struck down by a disease -- an intensely rich man -- directed his servants to bring him to the holy virgin's tomb. And when they had carried him all the way to the tomb, he received good health on the spot by the virtues of St Frideswide. He who had been unable to speak and lame, and had been carried about by others' hands, returned home on his own feet, praising God.
 
 # Athelwold made able to walk at Frideswide's funeral
 
-\[23\] There was another certain noble man named Athelwold who was cripped from the navel downwards. When they were burying the body of blessed Frideswide, he came to the church door, dragging his body with two crutches. He therefore wished to enter the church, but could not do so because of the great number of people. But he began to shout at the church's doors, 'O chosen bride of Christ, virgin Frideswide, free me from my illnesses, for I know that if you wish to help me, you can do so.'
+\[23\] There was another certain noble man named Athelwold who was crippled from the navel downwards. When they were burying the body of blessed Frideswide, he came to the church door, dragging his body with two crutches. He therefore wished to enter the church, but could not do so because of the great number of people. But he began to shout at the church's doors, 'O chosen bride of Christ, virgin Frideswide, free me from my illnesses, for I know that if you wish to help me, you can do so.'
 
 As he said this, he was made clean, as if he had never carried any disease. And so, rising and bursting forth, and *leaping like a deer*,^[Is. 35.6] he manfully entered the church, carrying with uplifted hands the supports that he had used to drag his body.
 
