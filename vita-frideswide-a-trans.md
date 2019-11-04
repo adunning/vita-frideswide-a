@@ -105,7 +105,7 @@ On the fourth ides of October^[Sunday, 12 October 727] an angel of the Lord appe
 
 A very strong fever then seized the most blessed virgin Frideswide, afflicted by bodily illness, and she began to be weakened in all parts of her body. One day, all the citizens of that city came to her. But the blessed virgin, teaching them sound things,<!-- chk --> did not cease to restore them.
 
-\[20\] On the Saturday evening before she was to pass away,<!-- chk --> she asked for a tomb to be opened for her in the church of the blessed mother of God, saying, 'Tomorrow will be Sunday, and I do not wish anyone to work because of me. For on this night, after the third cockcrow, fortified by the body and blood of Christ, I will go to my Lord. *I have fought the good fight, I have finished the race of righteousness,* I have rejected the world and all its pride, and therefore *there is laid up for me the crown of righteousness.*^[2 Tim. 4.7–8]
+\[20\] On the Saturday evening before she was to pass away,<!-- chk --> she asked for a tomb to be opened for her in the church of the blessed mother of God, saying, 'Tomorrow will be Sunday, and I do not wish anyone to work because of me. For on this night, after the third cockcrow, fortified by the body and blood of Christ, I will go to my Lord. *I have fought the good fight, I have finished the race of righteousness,* I have rejected the world and all its pride, and therefore *there is laid up for me the crown of righteousness.*'^[2 Tim. 4.7–8]
 
 As she said this and the discomfort of the illness worsened, she directed that the Eucharist of Christ be brought to her. Receiving it joyfully, she began to bless the omnipotent God.
 
