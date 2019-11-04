@@ -37,7 +37,6 @@ Frideswide's life is divided in the manuscript into ten apparent chapters, desig
 
 # Editorial method
 
-The text is edited from the single complete manuscript. It was last edited by @blair:1987saint, who aimed to understand more of its textual tradition through comparison with various derivative versions produced up to the sixteenth century. These are:
 
 - an abbreviation of the text (BHL 3166) in the fourteenth-century Romsey Legendary (*L*: London, British Library, Lansdowne MS 436, fols 101r--103r);
 - a brief summary (BHL 3167) in a miscellany from the late fourteenth or early fifteenth century (*B*: Oxford, Balliol College, MS 228, fol. 300r);
