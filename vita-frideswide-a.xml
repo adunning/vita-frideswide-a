@@ -83,7 +83,7 @@
 <pb n="156r"/>
 <cb n="a"/>
 <head>Incipit uita sanctę <name>fritheswithę</name> uirginis.</head>
-<div type="textpart" subtype="capitulum" n="1">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/><milestone unit="section" n="2"/>Igitur postquam populus <name>anglorum</name> beati
 <lb/><name>augustini</name> predicatione edoctus atque bap<lb break="no"/>tizatus est⸵ constituti sunt presbiteri atque
@@ -99,7 +99,7 @@
 <lb/>eam regenerari ex aqua et spiritu sancto.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="2">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/>Baptizatam itaque. uocauerunt eam <name rend="smallcaps">Fri<lb break="no"/>theswitham</name>. <milestone unit="section" n="3"/>Hec igitur regis filia. dili<lb break="no"/>genter enutrita est. Transactis itaque
 <lb/>quinque annis⸵ tradiderunt eam cuidam
@@ -143,7 +143,7 @@
 <lb/>ciuitatis <name>oxinefordie</name>. ad uictum sanctimo<lb break="no"/>nialium.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="3">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/><milestone unit="section" n="6"/>Igitur beata <name rend="smallcaps">Fritheswitha</name>
 <lb/>bonis ornata moribus. studuit corpus
@@ -160,7 +160,7 @@
 <lb/>genua. centiesque per noctem. affligens carnem. imploransque dei misericordiam.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="4">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/><milestone unit="section" n="7"/>Quadam igitur nocte dum hec sola perageret
 <lb/>in oratorio quod sibi construxerat˷
@@ -182,7 +182,7 @@
 <lb/>persistensque in uigiliis⸵ ęquo animo erat.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="5">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/><milestone unit="section" n="8"/>Quidam igitur rex <name>Leiecestrensium</name> uir ne<lb break="no"/>fandissimus et deo odiosus successit in 
 <lb/>regnum post obitum <name rend="smallcaps">Didani</name> regis. <name rend="smallcaps">Algarus</name>
@@ -267,7 +267,7 @@
 <lb/>annis in ipso nemore.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="6">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/><milestone unit="section" n="14"/>Puella itaque quedam erat in supradicta
 <lb/>uilla <name>bentonia</name>. que ante a diabolo ob<lb break="no"/>cecata erat prope septem annis. Hęc cum
@@ -283,7 +283,7 @@
 <lb/>quę uiderant fieri per sanctam <name>frithesuuitham</name>.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="7">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/><milestone unit="section" n="16"/>Erat etiam quidam adolescens nomine
 <lb/><name rend="smallcaps">Alwardus</name> in uilla quę dicitur <name>Seuecor<lb break="no"/>dia</name>. qui dominica die incidebat ligna cum
@@ -307,7 +307,7 @@
 <lb/><name>frithesuuithę</name> per totam regionem illam.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="8">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/><milestone unit="section" n="17"/>Accidit etiam ut piscatores sicut mos est
 <lb/>illius generis hominum ascenderent
@@ -333,7 +333,7 @@
 <lb/>dominus per beatam <name rend="smallcaps">Fritheswitham</name>.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="9">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/>Quadam igitur die. dixit consodalibus
 <lb/>suis. <said>Reuertamur ad cenobium 
@@ -390,7 +390,7 @@
 <lb/>deum ad propria.
 </p>
 </div>
-<div type="textpart" subtype="capitulum" n="10">
+<div type="textpart" subtype="capitulum">
 <p>
 <lb/><milestone unit="section" n="23"/>Alius <app><lem wit="#N">quidam</lem><rdg source="#Blair">quidem</rdg></app> nomine <name rend="smallcaps">Athelwoldus</name> uir
 <lb/>nobilis. qui erat contra<add place="inRas">ctus</add> ab umbilico de<lb break="no"/>orsum. cum sepelirent corpus beatę <name>Frithesuui<lb break="no"/>thę</name>. uenit ad fores ęcclesię. trahens corpus suum duobus
