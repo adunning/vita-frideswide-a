@@ -23,7 +23,6 @@
 <idno>Nero E. i/2</idno>
 </msIdentifier>
 </msDesc>
-<!-- http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f156r -->
 <listWit>
 <witness xml:id="B">
 <msDesc>
@@ -80,7 +79,7 @@
 <text xml:lang="la-GB">
 <body>
 <div type="textpart">
-<pb n="156r"/>
+<pb n="156r" facs="https://bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f156r"/>
 <cb n="a"/>
 <head>Incipit uita sanctę <name>fritheswithę</name> uirginis.</head>
 <div type="textpart" subtype="capitulum">
@@ -179,7 +178,7 @@ commu<lb break="no"/>nione corporis <name>cristi</name> confirmatus. deo spiritu
 spon<lb break="no"/>sa <name>cristi</name> orbata utroque parente⸵ magis
 <lb/>ac magis <supplied reason="omitted" source="#W #Blair">se</supplied> commendabat spiritui sancto <choice><sic>quod</sic><corr source="#W #Blair">quem</corr></choice>
 <lb/>timebat. Statuit etiam in corde suo
-<pb n="156v"/>
+<pb n="156v" facs="https://bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f156v"/>
 <cb n="a"/>
 <lb/>beata uirgo. ut centies per diem flecteret
 <lb/>genua. centiesque per noctem. affligens carnem. imploransque dei misericordiam.
@@ -290,7 +289,7 @@ insidi<lb break="no"/>as nefandi regis⸵ ingressa est in quodam
 <lb/>nemore <app><lem source="#Blair">quod dicitur <name>benesia</name></lem><rdg wit="#N"><del rend="erased">quod dicitur <name>benesia</name></del></rdg></app> non longe
 <lb/>a supradicta uilla. inueneruntque ibi
 <lb/>semitam. quę ducebat ad mansiunculam
-<pb n="157r"/>
+<pb n="157r" facs="https://bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f157r"/>
 <cb n="a"/>
 <lb/>quam quondam fecerant subulci custodientes
 <lb/>greges porcorum. coopertumque erat ex omni
@@ -408,7 +407,7 @@ simi<lb break="no"/>litudinem suam.</said><!-- Cf. Gen. 1.26–27, 2.7, 5.1 --> 
 <lb/>Quadam igitur die. dixit consodalibus
 <lb/>suis. <said>Reuertamur ad cenobium 
 <lb/>nostrum.</said> Preparata igitur nauicula⸵ beatę
-<pb n="157v"/>
+<pb n="157v" facs="https://bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f157v"/>
 <cb n="a"/>
 <lb/>uirgines intrauerunt in eam. uenientesque
 <lb/>ad ciuitatem <name>oxinefordiam</name>. honorifice a 
