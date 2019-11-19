@@ -15,9 +15,15 @@ After a long time, moreover, there was a certain king of Oxford whose name was D
 
 # Frideswide becomes a nun
 
-They named the baptized girl Frideswide. \[3\] As the daughter of a king, she was nurtured attentively. And so, when five years had passed, they entrusted her to a certain matron named Ælfgifu to learn letters. The virgin, whom God had now foreseen would be a vessel of the Holy Spirit, so fixed her mind to learning letters that within six months she would know the whole psalter. The blessed virgin Frideswide therefore *became greater and greater*,^[1 Chron. 11.9] and her whole mind was shining to *make herself beloved*^[Sir. 20.13] by everyone, and as much as she could she was always devoted to the thresholds of the holy church. She also stored up the words of Holy Scripture in the chamber of her breast, often repeating this prayer: that she *might dwell in the house of the Lord all the days of her life, and that she might see his will*^[Ps. 27.4 (Vulg. 26.4)] and fulfil it.
+They baptized their girl, therefore, and named her Frideswide.
 
-\[4\] Her aforesaid mother then died, held by sickness of body and seized by a heavy fever. But King Didan built a church and made it to be dedicated in the city of Oxford in honour of the Holy Trinity, the chaste Virgin Mary, and all the saints. Then the venerable Frideswide asked her father -- King Didan that is to say -- to build her a church. The king therefore gave her a church.
+\[3\] As the daughter of a king, she was nurtured attentively. And so, when five years had passed, they entrusted her to a certain matron named Ælfgifu to learn letters. The virgin, whom God had now foreseen would be a vessel of the Holy Spirit, so fixed her mind to learning letters that within six months she would know the whole psalter.
+
+The blessed virgin Frideswide therefore *became greater and greater*,^[1 Chron. 11.9] and her whole mind was shining to *make herself beloved*^[Sir. 20.13] by everyone, and as much as she could she was always devoted to the thresholds of the holy church. She also stored up the words of Holy Scripture in the chamber of her breast, often repeating this prayer: that she *might dwell in the house of the Lord all the days of her life, and that she might see his will*^[Ps. 27.4 (Vulg. 26.4)] and fulfil it.
+
+\[4\] Her aforesaid mother then died, held by sickness of body and seized by a heavy fever. But King Didan built a church and made it to be dedicated in the city of Oxford in honour of the Holy Trinity, the chaste Virgin Mary, and all the saints.
+
+Then the venerable Frideswide asked her father -- King Didan that is to say -- to build her a church. The king therefore gave her a church.
 
 The devout virgin thus devoted herself to serving God after her mother's death, always applying herself to vigils and prayers day and night, so that she often forgot bodily food, and she desired the food of souls with her whole endeavour. The virgin Frideswide, viewing the pride and glory of this transitory world, considering it all *as if it were dung*,^[Job 20.7] gave whatever she could obtain to the poor. She always used sackcloth; she had a small portion of barley bread with a few green vegetables and water for her food. All the English people meanwhile wondered at such strength at a young age, and the king rejoiced, thinking and knowing that his only daughter was the chosen vessel of the Holy Spirit.
 
@@ -67,7 +73,9 @@ And so, getting into the ship, they came in the space of one hour to a village c
 
 Fearing the  wicked king's treachery, blessed Frideswide entered with her virgins a certain wood called Binsey, not far from the town mentioned above. They found a path there that led to a little house which swineherds had once made, tending flocks of pigs, and it was completely covered with ivy. The most holy virgin entered it with her virgins, arming herself with the sign of the cross.
 
-\[13\] And so the king, rising with his retinue, reached the city of Oxford, desiring to violate the vessel consecrated to God. From the moment that the king began to enter the city, all their eyes were blinded, and they could not see. From that, it is believed to have come about that kings do not enter Oxford. The wicked king thus remained blind all the days of his life: he was always plotting and thinking how he could harm blessed Frideswide.
+\[13\] And so the king, rising with his retinue, reached the city of Oxford, desiring to violate the vessel consecrated to God.
+
+From the moment that the king began to enter the city, his eyes were blinded, and he could not see. From that, it is believed to have come about that kings do not enter Oxford. The wicked king thus remained blind all the days of his life: he was always plotting and thinking how he could harm blessed Frideswide.
 
 But the blessed virgin always bore the gospel's voice in her breast, and she did not cease day or night from divine conversation and prayer. The venerable virgin therefore remained in that wood for close to three years.
 
@@ -99,7 +107,9 @@ The venerable virgin, seeing the image of God ridiculed by the devil, entreated 
 
 When she had said this, he was made as if dead and fell to the earth. The blessed virgin ordered him to be freed. And when he had been freed, she held his hand and said, '*In the name of Jesus Christ of Nazareth, arise*^[Acts 3.6] unharmed.'
 
-And he arose, healthy, and he began to glorify God, who freed him the holy Frideswide's virtues. Now his name was Leowin. \[18\] The Lord worked these and many other miracles through blessed Frideswide.
+And he arose, healthy, and he began to glorify God, who freed him the holy Frideswide's virtues. Now his name was Leowin.
+
+\[18\] The Lord worked these and many other miracles through blessed Frideswide.
 
 # Frideswide returns to Oxford, heals a leper with a kiss, and dies
 
@@ -115,7 +125,9 @@ As she was always filled with the Holy Spirit, she made the sign of the Cross, g
 
 On the fourth ides of October^[Sunday, 12 October 727] an angel of the Lord appeared to her and said, 'The fourteenth calends of November will be a Sunday,^[19 October 727] and you will receive the crown of immortality from the Lord for which you have always longed. For a heavenly hall is made ready for you, and light everlasting, because you have despised the Father's earthly domain.' After he said this, the angel left her.
 
-A very strong fever then seized the most blessed virgin Frideswide, afflicted by bodily illness, and she began to be weakened in all parts of her body. One day, all the citizens of that city came to her. But the blessed virgin, did not cease to provide them with sound advice.
+A very strong fever then seized the most blessed virgin Frideswide, afflicted by bodily illness, and she began to be weakened in all parts of her body.
+
+One day, all the citizens of that city came to her. The blessed virgin did not cease to provide them with sound advice.
 
 \[20\] On the Saturday when she was to pass from her body on the morrow, she asked for a tomb to be opened for her in the church of the blessed mother of God, saying, 'Tomorrow will be Sunday, and I do not wish anyone to work because of me. For on this night, after the third cockcrow, fortified by the body and blood of Christ, I will go to my Lord. *I have fought the good fight, I have finished the race of righteousness,* I have rejected the world and all its pride, and therefore *there is laid up for me the crown of righteousness.*'^[2 Tim. 4.7–8]
 
@@ -135,7 +147,9 @@ And so, after the third cockcrow, just as she had foretold, she said farewell to
 
 # Athelwold able to walk at Frideswide's burial
 
-\[23\] There was another certain noble man named Athelwold who was crippled from the navel downwards. When they were burying the body of blessed Frideswide, he came to the church door, dragging his body with two crutches. He therefore wished to enter the church, but could not do so because of the great number of people. But he began to shout at the church's doors, 'O chosen bride of Christ, virgin Frideswide, free me from my illnesses, for I know that you can help me if you wish.'
+\[23\] There was another certain noble man named Athelwold who was crippled from the navel downwards. When they were burying the body of blessed Frideswide, he came to the church door, dragging his body with two crutches.
+
+He therefore wished to enter the church, but could not do so because of the great number of people. But he began to shout at the church's doors, 'O chosen bride of Christ, virgin Frideswide, free me from my illnesses, for I know that you can help me if you wish.'
 
 As he said this, he was made clean, as if he had never carried any disease. And so, rising and bursting forth, and *leaping like a deer*,^[Is. 35.6] he manfully entered the church, carrying with uplifted hands the supports that he had used to drag his body, praising God the redeemer of all.
 
