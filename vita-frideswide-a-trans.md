@@ -21,7 +21,7 @@ The girl was baptized, therefore, and they named her Frideswide.
 
 The blessed virgin Frideswide therefore *became greater and greater*,^[1 Chron. 11.9] and her whole mind was shining to *make herself beloved*^[Sir. 20.13] by everyone, and as much as she could she was always devoted to the thresholds of the holy church. She also stored up the words of Holy Scripture in the chamber of her breast, often repeating this prayer: that she *might dwell in the house of the Lord all the days of her life, and that she might see his will*^[Ps. 27.4 (Vulg. 26.4)] and fulfil it.
 
-\[4\] Her mother then died, held by sickness of body and seized by a heavy fever. But King Didan built a church and made it to be dedicated in the city of Oxford in honour of the Holy Trinity, the chaste Virgin Mary, and all the saints.
+\[4\] Her mother then died, held by sickness of body and seized by a heavy fever. But King Didan built a church and made it to be dedicated in the city of Oxford in honour of the Holy Trinity, the chaste Virgin Mary, and all the saints. [The end of the text refers to it simply as St Mary's: @blair:2004saint, p. 15 suggests that there might have been three churches.]
 
 Then the venerable Frideswide asked her father -- King Didan that is to say -- to give her the church. The king therefore gave her the church.
 
