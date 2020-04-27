@@ -1,19 +1,14 @@
----
-title: Life of St Frideswide the Virgin
-author: Anonymous 'Life A' (BHL 3164)
-lang: en-GB
-csl: chicago-fullnote-bibliography.csl
----
+## Life of St Frideswide the Virgin (BHL 3164)
 
 *Here begins the life of St Frideswide the virgin.*
 
-# Frideswide's birth
+### Frideswide's birth
 
 \[2\] When the English people were taught by the preaching of blessed Augustine and baptized, priests and deacons were appointed, and churches were built and dedicated through that entire area. Then *great numbers of believers were added*,^[Acts 5.14] and through the whole land of the English a new church was fruitful with offspring.
 
 Long after, there was a certain king of Oxford whose name was Didan. He took a wife named Sefrida, honouring God and wise in every good work. And since they rejoiced together in the flower of youth, the Lord gave them fruitfulness. Accordingly, the venerable Sefrida conceived, and after completing the suitable time, she gave birth to a daughter. When the king heard this, *he was overjoyed*^[Luke 23.8; 2 John 4; 3 John 3] and directed her to be born again from water and the Holy Spirit.
 
-# Frideswide becomes a nun
+### Frideswide becomes a nun
 
 The girl was baptized, therefore, and they named her Frideswide.
 
@@ -31,7 +26,7 @@ The devout virgin thus devoted herself to serving God after her mother's death, 
 
 King Didan, hearing his daughter's plan, *was overjoyed*.^[Luke 23.8; 2 John 4; 3 John 3] Summoning a certain devout man named Orgar, bishop of Lincoln, he caused his daughter Frideswide to be consecrated to God. Twelve virgins were made holy with her, all of noble birth. Then the king caused houses to be built that were appropriate for nuns, namely a refectory and dormitory and cloisters, and he gave devout men to serve them. King Didan also gave the properties and estates of St Mary, and a third part of the city of Oxford, as the nuns' provision.
 
-# King Didan dies
+### King Didan dies
 
 \[6\] Blessed Frideswide, adorned with good customs, devoted herself to tame the body and give life to the spirit, according to the Apostle's voice, saying, *Put to death the parts of your body which are on the earth.*^[Col. 3.5]
 
@@ -39,7 +34,7 @@ But not long after, King Didan *sunk to his bed*,^[1 Macc. 1.6, 6.8] seized by a
 
 And so blessed Frideswide, a bride of Christ, deprived of both her parents, entrusted herself more and more to the Holy Spirit whom she feared. The blessed virgin also resolved in her heart that she would bend her knees a hundred times per day and a hundred times every night, striking her flesh and asking for God's mercy.
 
-# The temptation of Frideswide
+### The temptation of Frideswide
 
 \[7\] One night, as her companions slept, she was spending time alone in the oratory she had built for herself. A devil appeared to her, adorned with gold and silver and every precious stone, and attended by a company of demons. He said to her, 'O my beloved virgin, now is the time for you to receive the *reward of your labours*.^[Wisd. 10.17] Come therefore to *worship me*,^[Matt. 4.9; Luke 4.7] for I am Christ, and I will give you the crown of immortality which you have deserved.'
 
@@ -47,9 +42,9 @@ Blessed Frideswide said to him, 'O wretched and most loathsome of all creatures,
 
 Saying this, the venerable virgin marked herself with the sign of the Cross, and immediately the devil disappeared, roaring and howling. But the blessed virgin's mind was calm, continuing in prayer and remaining in vigils.
 
-# King Algar seeks out Frideswide
+### King Algar seeks out Frideswide
 
-\[8\] After the death of King Didan, the kingdom passed to a certain king of Leicester named Algar, a wicked man and hateful to God. He sent envoys to blessed Frideswide, thus saying: 'The king has sent us to you, virgin Frideswide, wishing to have you in marriage. If you do not wish this, he will have you dragged to a brothel.'
+\[8\] After the death of King Didan, the kingdom passed to a certain king of Leicester named Algar, a wicked man and hateful to God. He sent messengers to blessed Frideswide, thus saying: 'The king has sent us to you, virgin Frideswide, wishing to have you in marriage. If you do not wish this, he will have you dragged to a brothel.'
 
 The virgin consecrated to God answered them, 'I am given in marriage to Christ, the king of all kings, and therefore this seems to offend against moral law, since in abandoning the king I would obey the orders of a servant. As to what you say, that you will drag me to a brothel, know that it is not possible to pollute the heart except with the mind's agreement. But above all, *the Lord is my helper; I will not fear what man may do to me.*'^[Ps. 118.6 (Vulg. 117.6); Heb. 13.6] 
 
@@ -79,7 +74,7 @@ From the moment that the king began to enter the city, his eyes were blinded, an
 
 But the blessed virgin always bore the gospel's voice in her breast, and she did not cease day or night from divine conversation and prayer. The venerable virgin therefore remained in that wood for close to three years.
 
-# Sight restored to a girl in Bampton
+### Sight restored to a girl in Bampton
 
 \[14\] There was a certain girl in the village of Bampton who had been blinded by a devil almost seven years before. While she slept one night, someone appeared to her in her dreams, saying, 'Go into the wood where the nuns live, and take a drop of liquid that falls from the hands of blessed Frideswide when she washes her hands. Anoint your eyes, and you will receive your sight.'
 
@@ -87,7 +82,7 @@ In the morning, the girl told her father what she had seen. The father, holding 
 
 Therefore, blessing God, they returned home, praising the Saviour's omnipotence, telling the marvellous things they had seen happen through holy Frideswide.
 
-# Alward of Seacourt's hand is healed
+### Alward of Seacourt's hand is healed
 
 \[16\] There was also a young man named Alward in a village called Seacourt who was felling trees with an axe on a Sunday, thinking little of the day of the Lord's Resurrection. While he was doing this, his hand stuck to the haft, so that he could not stretch out his fingers at all. Shouting with a loud voice, he said that his hand was burning itself.
 
@@ -99,7 +94,7 @@ And when those standing round answered 'Amen', the virgin made the sign of the C
 
 Returning home, he glorified God. Therefore, the name of blessed Frideswide was published through that whole area.
 
-# A fisherman freed from a demon
+### A fisherman freed from a demon
 
 \[17\] It also happened that fishermen were climbing into a ship one night to catch fish, as is the custom of that sort of people. When therefore they had placed nets into the ship and fallen asleep in it, one of them was seized by a devil. He began to give deceptive loud laughs. Holding one of his colleagues, he suffocated him with his hands, and he meant to tear him apart with his teeth. But the rest held him and bound his hands from the back, leading him to the blessed virgin's oratory.
 
@@ -111,7 +106,7 @@ And he arose, healthy, and he began to glorify God, who freed him the holy Fride
 
 \[18\] The Lord worked these and many other miracles through blessed Frideswide.
 
-# Frideswide returns to Oxford, heals a leper with a kiss, and dies
+### Frideswide returns to Oxford, heals a leper with a kiss, and dies
 
 One day, she said to her companions, 'Let us go back to our convent.'
 
@@ -143,7 +138,7 @@ And so, after the third cockcrow, just as she had foretold, she said farewell to
 
 \[22\] A certain paralysed man also struck down by a disease -- an intensely rich man -- directed his servants to bring him to the holy virgin's tomb. And when they had carried him all the way to the tomb, he received good health on the spot by the virtues of St Frideswide. For two years he had been unable to speak and lame, and had been carried about by others' hands. He returned home on his own feet, praising God.
 
-# Athelwold able to walk at Frideswide's burial
+### Athelwold able to walk at Frideswide's burial
 
 \[23\] There was another certain noble man named Athelwold who was crippled from the navel downwards. When they were burying the body of blessed Frideswide, he came to the church door, dragging his body with two crutches.
 
