@@ -189,7 +189,7 @@ spon<lb break="no"/>sa <name>cristi</name> orbata utroque parente⹎ magis
 <lb/><milestone unit="section" n="7"/>Quadam igitur nocte dum hec sola perageret
 <lb/>in oratorio quod sibi construxerat˷
 <lb/>dormientibus consodalibus suis.
-appa<lb break="no"/>ruit <supplied reason="omitted" source="#B #L #Blair">ei</supplied> diabolus ornatus auro et
+appa<lb break="no"/>ruit <app><lem wit="#N"/><rdg wit="#B #L" source="#Blair">ei</rdg></app> diabolus ornatus auro et
 argen<lb break="no"/>to. omnique lapide pretioso.
 constipa<lb break="no"/>tusque caterua demonum. <!-- chk: cap? -->dixit ei.
 <lb/><said>O mihi amabilis uirgo⹎ iam tempus
@@ -237,7 +237,7 @@ adqui<lb break="no"/>eueris sponte preceptis regis. rapiemus
 iudi<lb break="no"/>centur gentes in conspectu tuo. sciantque
 <lb/>quoniam homines sunt.</quote><!-- Ps. 9.19–20 (Vulg. 9.20–21) --> <quote type="Bible">Apprehende arma.
 <lb/>et scutum. et exurge in adiutorium mihi.
-<lb/><choice><sic>d</sic><corr source="#Blair">D</corr></choice>ic animę meę. salus tua ego sum.</quote><!-- Ps. 35.2–3 (Vulg. 34.2–3) --></said></p>
+<lb/>dic animę meę. salus tua ego sum.</quote><!-- Ps. 35.2–3 (Vulg. 34.2–3) --></said></p>
 <p><lb/>Hęc cum dixisset<surplus>.</surplus> uirgo sancta⹎ excecati sunt
 <cb n="b"/>
 <lb/>oculi eorum. et uidere non poterant <quote type="Bible">lumen
@@ -272,7 +272,7 @@ in<lb break="no"/>cantationes eius neque eius falsa dogmata.
 <lb/>Pergens igitur ad amnem. habe tecum quascunque
 <lb/>uolueris socias sanctimoniales. inueniesque
 <lb/>nauem pręparatam a deo nautamque.
-intran<lb break="no"/>tesque nauim <quote type="Bible">deducet uos</quote> <supplied reason="omitted" source="#L #Blair">dominus</supplied> omnipotens <quote type="Bible">in uiam
+intran<lb break="no"/>tesque nauim <quote type="Bible">deducet uos</quote> <app><lem wit="#N"/><rdg wit="#L" source="#Blair">dominus</rdg></app> omnipotens <quote type="Bible">in uiam
 <lb/>rectam</quote>.<!-- Ps. 107.7 (Vulg. 106.7) --> ad glorificandum nomen suum.</said> Hoc 
 <lb/><app><lem wit="#N">audito</lem><rdg wit="#L" source="#Blair">dicto</rdg></app>⹎ recessit ab ea.</p> <p><milestone unit="section" n="12"/>Surgens igitur
 <lb/>beata uirgo⹎ uocauit duas sanctimoniales
@@ -416,7 +416,7 @@ simi<lb break="no"/>litudinem suam.</said><!-- Cf. Gen. 1.26–27, 2.7, 5.1 --><
 <lb/>urbem⹎ occurrit ei quidam iuuenis plenus
 <lb/>lepra. dixitque ei. <said>Adiuro te o <name rend="smallcaps">Frithesuui<lb break="no"/>tha</name> uirgo. ut des mihi osculum in nomine
 <lb/><name>iesu <name>cristi</name></name>.</said></p> <p>Illa ut semper erat repleta sancto spiritu.
-<lb/>faciens signum crucis. de<add place="inRas">dit</add> <supplied reason="omitted" source="#L #Blair">ei</supplied> osculum in 
+<lb/>faciens signum crucis. de<add place="inRas">dit</add> <app><lem wit="#N"/><rdg wit="#L" source="#Blair">ei</rdg></app> osculum in 
 <lb/>nomine domini. et statim mun<add place="inRas">datus</add> est a lepra.
 <lb/>Videntes autem populi urbis illius omnisque clerus
 <lb/>quę fiebant per sanctam <name>fritheswitham</name>
@@ -424,7 +424,7 @@ uir<lb break="no"/>tutes et miracula⹎ gaudeba<supplied reason="omitted" source
 <lb/>eius.</p> <p><milestone unit="section" n="19"/>Beata itaque <name>cristi</name> uirgo. omnipotenti
 <lb/>deo seruire non cessabat. affligebatque corpus
 <lb/>ut uiuificaret spiritum. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">Vnde cum hec per multa tempora continuaret; et dies retribucionis a domino recipiendi mercedem pro labore appropinquaret⹎</rdg></app></p> <p><date when="0727-10-12">Quarto <hi rend="smallcaps">idus</hi> octobris</date>
-<lb/>apparuit ei angelus domini. dixitque <supplied reason="omitted" source="#L #Blair">ei</supplied>. <said><date when="0727-10-19">Quarto
+<lb/>apparuit ei angelus domini. dixitque. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">ei</rdg></app> <said><date when="0727-10-19">Quarto
 deci<lb break="no"/>mo kalendas <hi rend="smallcaps">nouembris</hi></date> erit dies dominicus.
 recipi<lb break="no"/>esque a domino coronam immortalitatis quam semper
 <lb/>desiderasti. Preparata enim tibi est aula

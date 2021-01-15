@@ -40,7 +40,7 @@ And so blessed Frideswide, a bride of Christ, deprived of both her parents, entr
 
 ### The temptation of Frideswide
 
-\[7\] One night, as her companions slept, she was spending time alone in the oratory she had built for herself. The Devil appeared to her, adorned with gold and silver and every precious stone, and attended by a company of demons. He said to her, 'O my beloved virgin, now is the time for you to receive the *reward of your labours*.^[Wisd. 10.17] Come therefore to *worship me*,^[Matt. 4.9; Luke 4.7] for I am Christ, and I will give you the crown of immortality which you have deserved.'
+\[7\] One night, as her companions slept, she was spending time alone in the oratory she had built for herself. The Devil appeared, adorned with gold and silver and every precious stone, and attended by a company of demons. He said to her, 'O my beloved virgin, now is the time for you to receive the *reward of your labours*.^[Wisd. 10.17] Come therefore to *worship me*,^[Matt. 4.9; Luke 4.7] for I am Christ, and I will give you the crown of immortality which you have deserved.'
 
 Blessed Frideswide said to him, 'O wretched and most loathsome of all creatures, why do you not fear the judgement of God? For the day will come when you and your master will receive eternal punishment. How therefore are you promising what you do not have?' 
 
@@ -64,9 +64,9 @@ And when they all had answered 'Amen', their eyes were restored, and running for
 
 And so *the king, filled with rage and anger*,^[Conflation of Dan. 2.12, 3.13, 3.19] said, 'Neither her spells nor her false doctrines nor her magic art will free her from my hands, but I will have her.'
 
-In the very night, as blessed Frideswide was praying, *an angel of the Lord appeared to her, saying,* 'O *chosen vessel*^[Acts 9.15] of the Holy Spirit, *do not fear*^[Matt. 1.20] the dead [Both in the sense of 'deadly' and 'null': @ashdowne:2018dictionary, s.v. 'funestus'] threats of the king, because Jesus Christ *will hide you under the shadow of his wings*,^[Ps. 17.8 (Vulg. 16.8)] and *he will lift you up*^[Is. 22.17] with his right hand. Making your way to the river, then, take with you whichever fellow nuns you wish, and you will find a boat and a sailor made ready by God. When you board the boat, almighty Lord *will lead you forth by the right way*^[Ps. 107.7 (Vulg. 106.7)] to glorify his name.' After she heard this, he went away from her.
+In the very night, as blessed Frideswide was praying, *an angel of the Lord appeared to her, saying,* 'O *chosen vessel*^[Acts 9.15] of the Holy Spirit, *do not fear*^[Matt. 1.20] the dead [Both in the sense of 'deadly' and 'null': @ashdowneDictionaryMedievalLatin2018, s.v. 'funestus'] threats of the king, because Jesus Christ *will hide you under the shadow of his wings*,^[Ps. 17.8 (Vulg. 16.8)] and *he will lift you up*^[Is. 22.17] with his right hand. Making your way to the river, then, take with you whichever fellow nuns you wish, and you will find a boat and a sailor made ready by God. When you board the boat, the Almighty *will lead you forth by the right way*^[Ps. 107.7 (Vulg. 106.7)] to glorify his name.' After she heard this, he went away from her.
 
-\[12\] The blessed virgin then rose and called two virgin nuns consecrated to God with her, and they reached the bank of the Thames, following the angel's instruction. They found a little boat, [this term can refer figuratively to the Church as St Peter's ship: @ashdowne:2018dictionary, s.v. 'navicula'] and a seated youth shining with *the countenance of an angel*,^[Judges 13.6] who addressed the virgins: 'Enter the boat, consecrated virgins.'
+\[12\] The blessed virgin then rose and called two virgin nuns consecrated to God with her, and they reached the bank of the Thames, following the angel's instruction. They found a little boat, [this term can refer figuratively to the Church as St Peter's ship: @ashdowneDictionaryMedievalLatin2018, s.v. 'navicula'] and a seated youth shining with *the countenance of an angel*,^[Judges 13.6] who addressed the virgins: 'Enter the boat, consecrated virgins.'
 
 And so, getting into the boat, they came in the space of one hour to a village called Bampton, led by the Lord. As they came out of the boat, the youth suddenly disappeared from their eyes.
 
@@ -119,7 +119,7 @@ When they had made the boat ready, the blessed virgins entered it. Coming to the
 
 But while blessed Frideswide was entering the city, a certain youth, filled with leprosy, presented himself to her and said, 'I entreat you, O virgin Frideswide, to give me a kiss in the name of Jesus Christ.'
 
-Filled as as she always was with the Holy Spirit, she made the sign of the cross and gave him a kiss in the name of the Lord. He was at once cleansed from the leprosy. All that city's people and clergy saw what powers and miracles were occurring through the holy Frideswide, and they rejoiced in her arrival.
+Filled as as she always was with the Holy Spirit, she made the sign of the cross and gave a kiss in the name of the Lord. He was at once cleansed from the leprosy. All that city's people and clergy saw what powers and miracles were occurring through the holy Frideswide, and they rejoiced in her arrival.
 
 \[19\] And so, the blessed virgin of Christ did not cease to serve almighty God, and she struck her body to give life to her spirit.
 
