@@ -22,7 +22,7 @@ The girl was baptized, therefore, and they named her Frideswide.
 
 The blessed virgin Frideswide therefore *became greater and greater*,^[1 Chron. 11.9] and her whole mind was shining to *make herself beloved*^[Sir. 20.13] by everyone, and as much as she could she was always devoted to the thresholds of the holy Church. She also stored up the words of holy Scripture in the chamber of her breast, often repeating this prayer: that she *might dwell in the house of the Lord all the days of her life, and that she might see his will*^[Ps. 27.4 (Vulg. 26.4)] and fulfil it.
 
-\[4\] Her mother then died, held by sickness of body and seized by a heavy fever. But King Didan built a church and made it to be dedicated in the city of Oxford in honour of the Holy Trinity, the chaste Virgin Mary, and all the saints. [The end of the text refers to it simply as St Mary's: @blairSaintFrideswidePatron2004, p. 15 suggests that there might have been three churches in Oxford with this name.<!-- chk -->] Then the venerable Frideswide asked her father -- King Didan that is to say -- to give her the church. The king therefore gave her the church.
+\[4\] Her mother then died, held by sickness of body and seized by a heavy fever. But King Didan built a church and made it to be dedicated in the city of Oxford in honour of the Holy Trinity, the chaste Virgin Mary, and all the saints. [@blairSaintFrideswideReconsidered1987, p. 89 suggests that these might have been three separate churches, since the end of the text refers only to St Mary's church.] Then the venerable Frideswide asked her father -- King Didan that is to say -- to give her the church. The king therefore gave her the church.
 
 The devout virgin thus devoted herself to serving God after her mother's death, always applying herself to vigils and prayers day and night, so that she often forgot bodily food, and she desired the food of souls with her whole endeavour. The virgin Frideswide, viewing the pride and glory of this transitory world, considering it all *as if it were dung*,^[Job 20.7] gave whatever she could obtain to the poor. She always wore a hair shirt; she had a small portion of barley bread with a few green vegetables and water for her food. All the English people meanwhile wondered at such strength at a young age, and the king rejoiced, thinking and knowing that his only daughter was a chosen vessel of the Holy Spirit.
 
@@ -88,8 +88,7 @@ Therefore, blessing God, they returned home, praising the Saviour's omnipotence,
 
 ### Alward of Seacourt's hand is healed
 
-<!--Biddle Martin. The Deserted Medieval Village of Seacourt, Berkshire. Oxoniensia. 1963 for 1961-2;26-27:70–201. -->
-\[16\] There was also a young man named Alward in a village called Seacourt who was felling trees with an axe on a Sunday, thinking little of the day of the Lord's Resurrection. While he was doing this, his hand stuck to the haft, so that he could not stretch out his fingers at all. Shouting with a loud voice, he said that his hand was burning itself.
+\[16\] There was also a young man named Alward in a village called Seacourt [closely linked in later times to the well at Binsey: @biddleDesertedMedievalVillage1961] who was felling trees with an axe on a Sunday, thinking little of the day of the Lord's Resurrection. While he was doing this, his hand stuck to the haft, so that he could not stretch out his fingers at all. Shouting with a loud voice, he said that his hand was burning itself.
 
 Led all the way to the blessed virgin, he rushed to her feet and began to beg for her help.
 
