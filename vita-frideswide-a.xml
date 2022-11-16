@@ -82,7 +82,7 @@
 <pb n="156r" facs="https://bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f156r"/>
 <cb n="a"/>
 <head>Incipit uita sanctę <name>fritheswithę</name> uirginis.</head>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="1">
 <p>
 <lb/><milestone unit="section" n="2"/>Igitur postquam populus <name>anglorum</name> beati
 <lb/><name>augustini</name> predicatione edoctus atque
@@ -103,17 +103,17 @@ ido<lb break="no"/>neum. peperit filiam. Cum hoc audisset
 <lb/>eam regenerari ex aqua et spiritu sancto.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="2">
 <p>
 <lb/>Baptizatam itaque. uocauerunt eam <name rend="smallcaps">Fri<lb break="no"/>theswitham</name>.</p> <p><milestone unit="section" n="3"/>Hec igitur regis filia.
 dili<lb break="no"/>genter enutrita est. Transactis itaque
 <lb/>quinque annis⹎ tradiderunt eam cuidam
 <lb/>matronę <name>Ælfgiue</name> nomine. ad erudiendum
-<lb/>litteras. Virgo igitur quam deus iam <app><lem wit="#N">preuiderat</lem><rdg source="#Blair">prouiderat</rdg></app>
+<lb/>litteras. Virgo igitur quam deus iam <app><lem wit="#N">pręuiderat</lem><rdg source="#Blair">prouiderat</rdg></app>
 <lb/>uas futurum spiritus sancti. ita animum
 stabi<lb break="no"/>liuit ad discendas litteras. ut intra sex
-<lb/>menses totum sciret psalterium.</p> <p><quote type="Bible">Proficie<lb break="no"/>bat</quote> igitur beata <name>Fritheswitha</name> uirgo et <quote type="Bible">cre<lb break="no"/>scebat</quote>.<!-- 1 Chron. 11.9 --> omnique animo nitebatur omnibus se
-<lb/><quote type="Bible">amabilem facere</quote>.<!-- Sirach 20.13 --> semperque prout ualebat<surplus>.</surplus>
+<lb/>menses totum sciret psalterium.</p> <p><quote type="Bible">Proficie<lb break="no"/>bat</quote> igitur beata <name>Fritheswitha</name> uirgo et <quote type="Bible">cre<lb break="no"/>scebat</quote>.<!-- 1 Sam. 2.26, 1 Chron. 11.10; cf. Luke 2.52 --> omnique animo nitebatur omnibus se
+<lb/><quote type="Bible">amabilem facere</quote>.<!-- Sirach 20.13 --> semperque prout ualebat.
 li<lb break="no"/>minibus sanctę ęcclesię adherebat. Sacrarum
 <lb/>etiam scripturarum dicta in pectoris
 <lb/>antro condebat. hanc sepe orationem
@@ -124,9 +124,9 @@ repe<lb break="no"/>tens. <quote type="Bible">ut inhabitare ualeret in domo domi
 gra<lb break="no"/>ui correpta⹎ mortua est. Rex uero <name>didanus</name>
 <lb/>construxit ęcclesiam. et dedicar<choice><sic>e</sic><corr source="#Blair">i</corr></choice> fecit in
 ho<lb break="no"/>nore sanctę trinitatis. et intemeratę uirginis
-<lb/><name rend="smallcaps">Marie</name>. omniumque sanctorum in urbe <name>Oxinefor<lb break="no"/>dia</name>. Venerabilis igitur <name rend="smallcaps">Fritheswitha</name> petiit
+<lb/><name rend="smallcaps">Marię</name>. omniumque sanctorum in urbe <name>Oxinefor<lb break="no"/>dia</name>. Venerabilis igitur <name rend="smallcaps">Fritheswitha</name> petiit
 <lb/>patrem suum <add place="inRas">ui</add>delicet <name>Didanum</name> regem.
-<lb/>ut daret sibi ęcclesiam. Rex igitur<surplus>.</surplus> dedit sibi
+<lb/>ut daret sibi ęcclesiam. Rex igitur<surplus>.</surplus> <add place="inRas">d</add>edit sibi
 <lb/>ęcclesiam.</p> <p>Religiosa itaque uirgo post obitum
 <cb n="b"/>
 <lb/>matris suę seruire deo studuit. die
@@ -147,13 +147,13 @@ conside<lb break="no"/>rans et cognoscens unicam filiam suam
 <lb/>uas esse spiritus sancti.</p> <p><milestone unit="section" n="5"/>Beata igitur uirgo rogauit
 <lb/>patrem suum dicens. <said>O dulcissime pater.
 <lb/>concede mihi <add place="above">ut</add> sanctimonialem habitum adipisci
-<lb/>merear. et in templo dei semper nomen eius
-<lb/>laudare et benedicere.</said></p> <p>Rex autem <name>Didanus</name>
+<lb/>merear. et <seg>in templo dei semper nomen eius
+<lb/>laudare et benedicere</seg><!-- cf. Luke 24.53 -->.</said></p> <p>Rex autem <name>Didanus</name>
 <lb/>audiens propositum filię⹎ <quote type="Bible">gauisus est
 ual<lb break="no"/>de</quote>.<!-- Luke 23.8; 2 John 4; 3 John 3 --> Et aduocans quendam religiosum
 <lb/>uirum <name rend="smallcaps">Orgarum</name> nomine. <name>lincolien<lb break="no"/>sium</name> pontificem. fecit deo filiam suam <name>Frithe<lb break="no"/>switham</name> consecrari. Sacratę sunt itaque
 <lb/>cum ea duodecim uirgines. omnes nobili progenie.
-<lb/>Fecit itaque prefatus rex edificari domos.
+<lb/>Fecit itaque pręfatus rex edificari domos.
 <lb/>quę conueniunt sanctimonialibus.
 uide<lb break="no"/>licet refectorium et dormitorium et
 clau<lb break="no"/>stra. uirosque religiosos dedit ad
@@ -163,20 +163,20 @@ serui<lb break="no"/>endum eis. Dedit etiam rex <name>Didanus</name> predia
 sanctimo<lb break="no"/>nialium.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="3">
 <p>
 <lb/><milestone unit="section" n="6"/>Igitur beata <name rend="smallcaps">Fritheswitha</name>
 <lb/>bonis ornata moribus. studuit corpus
 <lb/>domare. spiritumque uiuificare. iuxta
 uo<lb break="no"/>cem apostoli dicentis. <quote type="Bible">Mortificate menbra
-<lb/>uestra. que sunt super terram.</quote><!-- Col. 3.5 --></p> <p>Post non multum
+<lb/>uestra. quę sunt super terram.</quote><!-- Col. 3.5 --></p> <p>Post non multum
 <lb/>uero tempus⹎ <quote type="Bible">decidit in lectum</quote><!-- 1 Macc. 1.6, 6.8 --> rex <name>Didanus</name>⹎
 <lb/>graui egritudine correptus.
 Distribu<lb break="no"/>ensque thesaurum suum pauperibus.
 commu<lb break="no"/>nione corporis <name>cristi</name> confirmatus. deo spiritum
 <lb/>reddidit.</p> <p>Beata igitur <name>Fritheswitha</name>
 spon<lb break="no"/>sa <name>cristi</name> orbata utroque parente⹎ magis
-<lb/>ac magis <supplied reason="omitted" source="#W #Blair">se</supplied> commendabat spiritui sancto <choice><sic>quod</sic><corr source="#W #Blair">quem</corr></choice>
+<lb/>ac magis <app><lem wit="#N"/><rdg wit="#W" source="#Blair">se</rdg></app> commendabat spiritui sancto <app><lem wit="#N">quod</lem><rdg wit="#W" source="#Blair">quem</rdg></app>
 <lb/>timebat. Statuit etiam in corde suo
 <pb n="156v" facs="https://bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f156v"/>
 <cb n="a"/>
@@ -184,14 +184,14 @@ spon<lb break="no"/>sa <name>cristi</name> orbata utroque parente⹎ magis
 <lb/>genua. centiesque per noctem. affligens carnem. imploransque dei misericordiam.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="4">
 <p>
 <lb/><milestone unit="section" n="7"/>Quadam igitur nocte dum hec sola perageret
 <lb/>in oratorio quod sibi construxerat˷
 <lb/>dormientibus consodalibus suis.
 appa<lb break="no"/>ruit <app><lem wit="#N"/><rdg wit="#B #L" source="#Blair">ei</rdg></app> diabolus ornatus auro et
 argen<lb break="no"/>to. omnique lapide pretioso.
-constipa<lb break="no"/>tusque caterua demonum. <!-- chk: cap? -->dixit ei.
+constipa<lb break="no"/>tusque caterua demonum. dixit ei.
 <lb/><said>O mihi amabilis uirgo⹎ iam tempus
 <lb/>est ut recipias <quote type="Bible">mercedem laborum
 <lb/>tuorum</quote><!-- Wisd. 10.17 -->. Veni ergo <quote type="Bible">adorare me</quote>⹎<!-- Matt. 4.9; Luke 4.7 --> ego enim
@@ -210,7 +210,7 @@ im<lb break="no"/>mortalitatis. quam promeruisti.</said></p> <p>Cui
 <lb/>persistensque in uigiliis⹎ ęquo animo erat.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="5">
 <p>
 <lb/><milestone unit="section" n="8"/>Quidam igitur rex <name>Leiecestrensium</name> uir
 ne<lb break="no"/>fandissimus et deo odiosus successit in 
@@ -229,7 +229,7 @@ res<lb break="no"/>pondit. <said>Desponsata sum <name>cristo</name> regi regum
 <lb/>omnia autem. <quote type="Bible">dominus mihi adiutor. non
 ti<lb break="no"/>mebo quid faciat mihi homo.</quote><!-- Ps. 118.6 (Vulg. 117.6); Heb. 13.6 --></said></p> <p><milestone unit="section" n="9"/>Ministri ergo
 <lb/>regis indignati dixerunt. <said>Nisi
-adqui<lb break="no"/>eueris sponte preceptis regis. rapiemus
+adqui<lb break="no"/>eueris sponte pręceptis regis. rapiemus
 <lb/>te. ducemusque ad regem <name>Algarum</name>. uelis
 <lb/>nolis.</said></p> <p>Hęc audiens beata <name rend="smallcaps">Fritheswit<add place="above">h</add>a</name>⹎
 <lb/>suspiciens sursum. clara uoce dixit.
@@ -255,7 +255,7 @@ in<lb break="no"/>commutabilis˷ <quote type="Bible">qui fecisti cęlum et
 <lb/>iste. quia <quote type="Bible">tu es miserator et misericors.
 <lb/>patiens et multę misericordię et uerax.</quote><!-- Ps. 86.15 (Vulg. 85.15) -->
 <lb/>qui uiuis et regnas per infinita seculorum
-<lb/>secula.</said></p> <p>Cunque omnes <app><lem wit="#N">respondissent</lem><rdg source="#Blair">repondissent</rdg></app><!-- was this fixed in reprint?--> <said>amen</said>⹎
+<lb/>secula.</said></p> <p>Cunque omnes <app><lem wit="#N">respondissent</lem><rdg source="#Blair">repondissent</rdg></app> <said>amen</said>⹎
 <lb/>restituti sunt oculi eorum. currentesque
 prouo<lb break="no"/>luti pedibus beatę uirginis laudabant
 <lb/>dominum. magnificantes eius immensam
@@ -277,16 +277,16 @@ intran<lb break="no"/>tesque nauim <quote type="Bible">deducet uos</quote> <app>
 <lb/><app><lem wit="#N">audito</lem><rdg wit="#L" source="#Blair">dicto</rdg></app>⹎ recessit ab ea.</p> <p><milestone unit="section" n="12"/>Surgens igitur
 <lb/>beata uirgo⹎ uocauit duas sanctimoniales
 <lb/>secum uirgines deo dicatas. peruenientesque
-<lb/>iuxta preceptum angelicum ad ripam <name>tamisię</name>.
+<lb/>iuxta pręceptum angelicum ad ripam <name>tamisię</name>.
 <lb/>inuenerunt nauiculam. sedentemque
 iuue<lb break="no"/>nem fulgentem <quote type="Bible">angelico uultu</quote>.<!-- Judges 13.6 --> qui ita affatur
 <lb/>uirgines. <said>Ingredimini in nauim. uirgines sacratę.</said></p> <p>Ingressę itaque in nauim.
 <lb/>in unius horę spatio uenerunt ad uillam
-<lb/>que dicitur <name>bentonia</name>. ducente domino.
+<lb/>quę dicitur <name>bentonia</name>. ducente domino.
 Egredi<lb break="no"/>entesque de naui⹎ subito euanuit
 iuue<lb break="no"/>nis ab oculis earum.</p> <p>Beata igitur <name>frithesuui<lb break="no"/>tha</name>. cum suis uirginibus timens
 insidi<lb break="no"/>as nefandi regis⹎ ingressa est in quodam
-<lb/>nemore <app><lem source="#Blair">quod dicitur <name>benesia</name></lem><rdg wit="#N"><del rend="erased">quod dicitur <name>benesia</name></del></rdg></app> non longe
+<lb/>nemore <app><lem wit="#N" source="#Blair">quod dicitur <name>benesia</name></lem><rdg wit="#N"><del rend="erased">quod dicitur <name>benesia</name></del></rdg></app> non longe
 <lb/>a supradicta uilla. inueneruntque ibi
 <lb/>semitam. quę ducebat ad mansiunculam
 <pb n="157r" facs="https://bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!2_f157r"/>
@@ -294,7 +294,7 @@ insidi<lb break="no"/>as nefandi regis⹎ ingressa est in quodam
 <lb/>quam quondam fecerant subulci custodientes
 <lb/>greges porcorum. coopertumque erat ex omni
 <lb/>parte edera. In quam introiuit sanctissima
-<lb/>uirgo. cum suis uirginibus⹎ muniens se
+<lb/>uirgo<surplus>.</surplus> cum suis uirginibus⹎ muniens se
 <lb/>signaculo sanctę crucis.</p> <p><milestone unit="section" n="13"/>Surgens itaque rex
 <lb/>impius cum satellitibus suis. peruenit ad urbem
 <lb/><name>Oxinefordiam</name>. cupiens uiolare uasa deo
@@ -312,10 +312,10 @@ ciui<lb break="no"/>tatem⹎ excecati sunt oculi eius. et uidere
 <lb/>annis in ipso nemore.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="6">
 <p>
 <lb/><milestone unit="section" n="14"/>Puella itaque quedam erat in supradicta
-<lb/>uilla <name>bentonia</name>. que ante a diabolo
+<lb/>uilla <name>bentonia</name>. quę ante a diabolo
 ob<lb break="no"/>cecata erat prope septem annis. Hęc cum
 <lb/>quadam nocte dormiret⹎ apparuit ei quidam
 <lb/>in somnis dicens. <said>Vade in nemore. ubi
@@ -333,7 +333,7 @@ omnipo<lb break="no"/>tentiam saluatoris⹎ narrantes mirabilia.
 <lb/>quę uiderant fieri per sanctam <name>frithesuuitham</name>.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="7">
 <p>
 <lb/><milestone unit="section" n="16"/>Erat etiam quidam adolescens nomine
 <lb/><name rend="smallcaps">Alwardus</name> in uilla quę dicitur <name>Seuecor<lb break="no"/>dia</name>. qui dominica die incidebat ligna cum
@@ -344,7 +344,7 @@ omnipo<lb break="no"/>tentiam saluatoris⹎ narrantes mirabilia.
 <lb/>dicebat sibi manum incendi.</p> <p>Ductus usque
 <lb/>ad sanctam uirginem⹎ prouolutus eius pedibus.
 <lb/>cepit eius implorare auxilium.</p> <p>Illa ut
-<lb/>erat misericordi<choice><sic>ę</sic><corr source="#Blair">a</corr></choice> uisceribus repleta. mota
+<lb/>erat <app><lem source="#N">misericordię</lem><rdg source="#Blair">misericordia</rdg></app> uisceribus repleta. mota
 pieta<lb break="no"/>te. flexis genibus cepit domini clementiam rogare.
 <lb/>ita dicens. <said>Adonay domine deus. magne et
 mi<lb break="no"/>rabilis. qui <name>moysi</name> <quote type="Bible">in igne flammę rubi
@@ -361,14 +361,14 @@ incarna<lb break="no"/>ri uoluisti. queso ut per inuocationem
 sal<lb break="no"/>uator omnium in te sperantium.<!-- ref? --> permanens
 <lb/>in secula seculorum.</said></p> <p>Cunque astantes
 respon<lb break="no"/>dissent <said>amen</said>⹎ faciens uirgo signum
-<lb/>crucis. tenensque manum adolescentis<!-- maybe add a point here -->
+<lb/>crucis. tenensque manum adolescentis
 <lb/>fugato dolore liberauit eum.</p>
 <p>Reuer<lb break="no"/>susque ad propria⹎ glorificabat deum. Ad domini
 <lb/>igitur laudem. diuulgabatur nomen beate
 <lb/><name>frithesuuithę</name> per totam regionem illam.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="8">
 <p>
 <lb/><milestone unit="section" n="17"/>Accidit etiam ut piscatores sicut mos est
 <lb/>illius generis hominum ascenderent
@@ -376,7 +376,7 @@ respon<lb break="no"/>dissent <said>amen</said>⹎ faciens uirgo signum
 <lb/>Cum ergo misissent retia in nauem. et
 obdor<lb break="no"/>missent in naui. unus eorum arreptus a
 de<lb break="no"/>monio. cepitque cachinna falsa dare.
-te<lb break="no"/>nensque unum e sociis suis<surplus>.</surplus> suffocabat
+te<lb break="no"/>nensque unum e sociis suis. suffocabat
 <lb/>eum manibus. dentibusque dilaniare
 uo<lb break="no"/>lebat. Ceteri uero tenentes eum. ligauerunt
 <lb/>manus a tergo. ducentes eum ad beate
@@ -402,7 +402,7 @@ simi<lb break="no"/>litudinem suam.</said><!-- Cf. Gen. 1.26–27, 2.7, 5.1 --><
 <lb/>dominus per beatam <name rend="smallcaps">Fritheswitham</name>.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="9">
 <p>
 <lb/>Quadam igitur die. dixit consodalibus
 <lb/>suis. <said>Reuertamur ad cenobium 
@@ -423,8 +423,8 @@ simi<lb break="no"/>litudinem suam.</said><!-- Cf. Gen. 1.26–27, 2.7, 5.1 --><
 uir<lb break="no"/>tutes et miracula⹎ gaudeba<supplied reason="omitted" source="#L #Blair">n</supplied>t in aduentu
 <lb/>eius.</p> <p><milestone unit="section" n="19"/>Beata itaque <name>cristi</name> uirgo. omnipotenti
 <lb/>deo seruire non cessabat. affligebatque corpus
-<lb/>ut uiuificaret spiritum. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">Vnde cum hec per multa tempora continuaret; et dies retribucionis a domino recipiendi mercedem pro labore appropinquaret⹎</rdg></app></p> <p><date when="0727-10-12">Quarto <hi rend="smallcaps">idus</hi> octobris</date>
-<lb/>apparuit ei angelus domini. dixitque. <app><lem wit="#N"/><rdg wit="#L" source="#Blair">ei</rdg></app> <said><date when="0727-10-19">Quarto
+<lb/>ut uiuificaret spiritum.</p> <p><app><lem wit="#N"/><rdg wit="#L" source="#Blair">Vnde cum hec per multa tempora continuaret; et dies retribucionis a domino recipiendi mercedem pro labore appropinquaret⹎</rdg></app> <date when="0727-10-12">Quarto <hi rend="smallcaps">idus</hi> octobris</date>
+<lb/>apparuit ei angelus domini. dixitque<app><lem wit="#N"/><rdg wit="#L" source="#Blair">ei</rdg></app>. <said><date when="0727-10-19">Quarto
 deci<lb break="no"/>mo kalendas <hi rend="smallcaps">nouembris</hi></date> erit dies dominicus.
 recipi<lb break="no"/>esque a domino coronam immortalitatis quam semper
 <lb/>desiderasti. Preparata enim tibi est aula
@@ -461,8 +461,7 @@ af<lb break="no"/>ferri eucharistiam <name>cristi</name>. Quam gaudenter
 <lb/>ueniam dominę meę.</said></p> <p>Post tertium itaque galli cantum
 <lb/>sicut prędixerat ualedicens omnibus migrauit ad dominum
 <lb/><name>iesum <name>cristum</name></name>. In illa hora tanta lux effulsit per
-uni<lb break="no"/>uersam ciuitatem <name>Oxinefordiam</name> tantaque
-sua<lb break="no"/>uitas odoris trium horarum spatio <supplied reason="omitted" source="#L #Blair">fragrauit</supplied>. ut omnes
+uni<lb break="no"/>uersam ciuitatem <name>Oxinefordiam</name> tantaque <quote type="Bible">sua<lb break="no"/>uitas odoris</quote><!-- Eph. 5.2 --> trium horarum spatio<app><lem wit="#N"/><rdg wit="#L" source="#Blair">fragrauit</rdg></app>. ut omnes
 <lb/>mirarentur. et glorificarent deum.</p> <p><milestone unit="section" n="22"/>Quidam etiam uir
 <lb/>paralitico morbo percussus. uir diues ualde.
 <lb/>iussit famulis suis. ut eum deportarent ad
@@ -474,12 +473,12 @@ se<lb break="no"/>pulchrum sanctę uirginis. Cunque detulissent eum
 <lb/>deum ad propria.
 </p>
 </div>
-<div type="textpart" subtype="capitulum">
+<div type="textpart" subtype="capitulum" n="10">
 <p>
 <lb/><milestone unit="section" n="23"/>Alius <app><lem wit="#N">quidam</lem><rdg source="#Blair">quidem</rdg></app> nomine <name rend="smallcaps">Athelwoldus</name> uir
 <lb/>nobilis. qui erat contra<add place="inRas">ctus</add> ab umbilico
 de<lb break="no"/>orsum. cum sepelirent corpus beatę <name>Frithesuui<lb break="no"/>thę</name>. uenit ad fores ęcclesię. trahens corpus suum duobus
-<lb/>scabellis.</p> <p>Volens igitur introire in ęcclesiam⹎ pre
+<lb/>scabellis.</p> <p>Volens igitur introire in ęcclesiam⹎ prę
 mul<lb break="no"/>titudine populorum non poterat. Cepit autem 
 <lb/>ad fores ęcclesię clamare. <said>O sponsa <name>cristi</name> electa
 <lb/>uirgo <name>Fritheswitha</name>. libera me ab
@@ -491,7 +490,7 @@ infirmita<lb break="no"/>tibus meis. scio enim quia si uis subuenire mihi
 por<lb break="no"/>tans eleuatis manibus scannulos. cum quibus
 <lb/>corpus suum trahere solebat. laudans deum
 <lb/>omnium redemptorem.</p> <p><milestone unit="section" n="24"/>Migrauit igitur
-<lb/>beata <name>frithesuuitha</name> uirgo ad dominum<surplus>.</surplus> <date when="0727-10-19">quar<lb break="no"/>to decimo <hi rend="smallcaps">kalendas nouembris</hi>. anno ab
+<lb/>beata <name>frithesuuitha</name> uirgo ad dominum. <date when="0727-10-19">quar<lb break="no"/>to decimo <hi rend="smallcaps">kalendas nouembris</hi>. anno ab
 <lb/>incarnatione domini septingentesimo uicesimo
 <lb/>septimo.</date> Sepultaque est in ęcclesia sanctę <name>marię</name>
 <lb/>in australi parte. ubi fiunt multa
